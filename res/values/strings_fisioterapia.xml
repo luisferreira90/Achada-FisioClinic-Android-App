@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="fisioterapia">
+	    Na vertente da Fisioterapia, a Achada FisioClinic distingue-se pela 
+	    busca de respostas adequadas aos problemas dos utentes.
+		\nCada utente recebe um tratamento único, onde são privilegiadas as 
+		Terapias Manuais não existindo limitações de tempo ou recursos. 
+		\nO serviço de Fisioterapia proporciona a realização de programas de prevenção, 
+		recuperação e promoção da saúde muito completos.
+		\nA Achada FisioClinic encontra-se na vanguarda da Fisioterapia utilizando 
+		diferentes conceitos e abordagens, nomeadamente Técnicas Manipulativas, Reeducação 
+		Postural Global, Mobilização Neural, Técnicas de Estabilidade Dinâmica, até á 
+		Electroterapia.
+		 
+		\n\nPara cada utente é preparado um programa específico de tratamento 
+		aplicado por um Fisioterapeuta qualificado. Trabalhamos com o apoio de diferentes 
+		Valências Médicas, nomeadamente a Ortopedia, Medicina Geral e Familiar, e Medicina Interna.
+	</string>
+
+	<string name="list_fisioterapia">As principais técnicas de intervenção ao nível da 
+	    Fisioterapia realizadas na <b>Achada FisioClinic</b> são:
+		\t\n\n&#8226;Técnicas de Reeducação Postural;
+		\t\n&#8226;Técnicas de reeducação do movimento;
+		\t\n&#8226;Técnicas manipulativas;
+		\t\n&#8226;Técnicas especiais (Método POLD; Cyriax; Mckenzie, Maitland, MCConnell, "Conceito de estabilidade dinamica" e Bobath);
+		\t\n&#8226;Mobilização Neural;
+		\t\n&#8226;Terapia Linfática Descongestiva;
+		\t\n&#8226;Electroterapia;
+		\t\n&#8226;Magnetoterapia;
+		\t\n&#8226;"Kinesio Taping" e Ligaduras funcionais;
+		\t\n&#8226;Fisioterapia Respiratória;
+	</string>
+    
+</resources>

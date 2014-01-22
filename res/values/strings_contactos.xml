@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_contactos">Contactos</string>
+    <string name="title_endereco">Endereço</string>
+    <string name="title_horario">Horário de Funcionamento</string>
+    <string name="title_carreira">Carreira</string>
+    <string name="title_telefone">Telefone</string>
+    <string name="title_email">E-mail</string>
+    
+    <string name="txtEndereco">
+        Caminho da Achada n.º20A
+        \n9000-208, São Pedro, Funchal
+    </string>
+    
+    <string name="txtHorario">
+        Segunda a Sexta das 8:00H às 21:00H
+        \nSábados das 8:00H às 14:00H
+    </string>
+    
+    <string name="txtCarreira">
+        15 - Santana
+    </string>
+    
+    <string name="txtEmail">
+        geral@achadafisioclinic.com
+    </string>
+    
+    <string name="txtTelefone">
+        929 093 025
+    </string>
+
+</resources>

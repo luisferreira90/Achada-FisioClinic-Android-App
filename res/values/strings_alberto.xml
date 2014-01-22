@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        
+    <string name ="alberto1">
+        &#8226;Lentes de contacto das marcas Ciba, 
+        \nVision e Bausch&amp;Lomb
+    </string>
+    
+    <string name="alberto2">
+        &#8226;Lentes oftálmicas das marcas do grupo 
+        \nCarl ZEISS, Vision e Y&amp;S
+	</string>
+	
+    <string name="alberto3">
+        &#8226;Óculos de sol (excepto nas marcas Ray-Ban e Vogue)
+	</string>
+	
+    <string name="alberto4">
+        &#8226;Produtos de manutenção de lentes de 
+        \ncontacto da marca NITILENS
+	</string>
+	
+    <string name="alberto5">
+        &#8226;Armações que não integrem as campanhas em vigor
+    </string>
+    
+    <string name="alberto6">
+        &#8226;Na compra de um ou mais óculos de sol ou uma ou mais
+        \narmações, oferta de suspensões ou oferta de sprays de limpeza
+    </string>
+    
+    <string name="albertotelefone">
+        291 000 190
+    </string>
+    
+    <string name="albertoemail">
+        geral@albertooculista.com
+    </string>
+    
+    <string name="albertolojas">
+        Ver lojas
+    </string>
+    
+    <string name="acess_albertolojas">
+        Ver lojas
+    </string>
+    
+    <string name="title_albertolojas">
+        Aberto Oculista - Lojas
+    </string>
+    
+    <string name="title_funchal">
+        Funchal
+    </string>
+    
+    <string name="enderecofunchal1">
+        Rua Dr. Fernão de Ornelas, Nº 16
+        \n9050-021 Funchal
+    </string>
+    
+    <string name="enderecofunchal2">
+        Rua Dr. Fernão de Ornelas, Nº 27
+        \n9050-021 Funchal
+    </string>
+    
+    <string name="enderecofunchal3">
+        Rua Dr. Fernão de Ornelas, Nº 65
+        \n9050-021 Funchal
+    </string>
+    
+    <string name="enderecofunchal4">
+        Rua 5 de Outubro, Nº 30
+        \n9000-079 Funchal        
+    </string>
+    
+    <string name="enderecofunchal5">
+        Rua Cónego Jerónimo Dias Leite
+        \nEdifício Marina Shopping, Loja Nº 132
+        \n9000-216 Funchal
+    </string>
+    
+    <string name="enderecofunchal6">
+        Estrada Monumental, 390
+        \nC.C. Forum Madeira, Loja Nº 024
+        \n9004-568 Funchal     
+    </string>
+    
+    <string name="enderecofunchal7">
+        Caminho de Santa Quitéria Nº 45
+        \nC.C. Madeira Shopping, loja Nº 50A
+        \n9020-501 Funchal
+    </string>
+    
+    <string name="title_ribeirabrava">
+        Ribeira Brava
+    </string>
+    
+    <string name="enderecoribeirabrava">
+        Estrada Regional 104, Edifício Parada Nº 8
+        \n9350-203 Ribeira Brava
+    </string>
+    
+    <string name="title_machico">
+        Machico
+    </string>
+    
+    <string name="enderecomachico">
+        Praceta 25 de Abril - Edifício Avenida, Loja Nº19
+        \n9200-087 Machico
+    </string>
+    
+    <string name="title_camaralobos">
+        Câmara de Lobos
+    </string>
+    
+    <string name="enderecocamaralobos">
+        Edifício Baía Fracção Q
+        \nRua Padre Eduardo Clemente Nunes Pereira
+        \nLoja Nº 25
+        \n9300-116 Câmara de Lobos
+    </string>
+    
+    <string name="title_canico">
+        Caniço
+    </string>
+    
+    <string name="enderecocanico">
+        Rua Estrada João Gonçalves Zarco
+        \nC.C. Caniço Shopping, Loja Nº 19
+        \n9125-018 Caniço
+    </string>
+    
+    <string name="title_santacruz">
+        Santa Cruz
+    </string>
+    
+    <string name="enderecosantacruz">
+        Avenida 25 de Junho
+        \nSanta Cruz Shopping, Loja Nº 1
+        \n9100-180 Santa Cruz
+    </string>
+          	
+</resources>

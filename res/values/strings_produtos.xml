@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_fisiocrem">Fisiocrem</string>
+    <string name="title_xango">Xango</string>
+    <string name="title_spiral_tape">Spiral Tape</string>
+    <string name="title_4life">4Life</string>
+    <string name="title_atex">ATEX</string>
+    
+    <string name="pre_fisiocrem">Tubo de 250ml - 24€ ou de 60ml - 10€</string>
+    <string name="pre_xango1">Xango 750ml - 35€</string>
+    <string name="pre_xango2">Xango Single 30ml - 2.80€</string>
+    <string name="pre_spiral1">Power Spiral Tape Tipo A - 18€\nQuadriculado de 3mm ou de 4mm</string>
+    <string name="pre_atex1">Bandas de ATEX: SPORTS-TEX (3.75cm x 5.0m) - 9€ (cada rolo)</string>
+    <string name="pre_atex2">Bandas de ATEX: SPORTS-TEX (5.0cm x 5.0m) - 11€ (cada rolo)</string>
+    <string name="pre_atex3">Bandas de ATEX: SPORTS-TEX (7.5cm x 5.0m) - 16€ (cada rolo)</string>
+    
+    <string name="atex_color">Cores: bege, azul, rosa e preto</string>
+    
+    <string name="fisiocrem">
+        Fisiocrem é a solução natural para músculos e articulações. 
+        De fácil aplicação tópica, favorece o alívio de músculos doridos e cansados, 
+        de traumatismos e entorses, ajudando ainda a melhorar problemas de circulação. 
+        É um produto completamente natural e o seu uso pode fazer-se simultamente com os 
+        de outros tratamentos com produtos naturais e/ou farmacêuticos. Podem utilizar 
+        Fisiocrem nas crianças, nos idosos, nas grávidas e mães lactantes. A sua facilidade 
+        de uso e a rapidez do seu efeito, tornam compatível a sua aplicação com a manutenção 
+        da actividade diária habitual. Deve evitar-se a sua aplicação em feridas, mucosas e 
+        olhos. Não mancha a roupa.
+    </string>
+    
+    <string name="xango">
+        Natural. Fresco. Arrojado. Único. O Sumo Xango alia um sabor sensacional a um 
+        valor nutricional sem paralelo. Possuindo uma poderosa fonte de fitonutrientes 
+        chamados xantonas, o Sumo XanGo oferece todas as propriedades da totalidade do 
+        fruto do mangostão. Uma textura suave e um sabor delicioso seduzem o paladar, 
+        ao passo que o poder das xantonas contribui para reforçar diversas funções físicas. 
+        O Sumo XanGo cria uma nova categoria e é um líder de mercado a nível mundial - 
+        uma verdadeira força revolucionária.
+    </string>
+    
+    <string name="atex">
+        Rolo de Tape resistente à água, constituido por fibras polímeras elásticas de polyester 
+        envoltas em fio 100% de algodão que permitem que a pele respire. Na face aderente 
+        apresenta massa adesiva termoactiva e hipoalérgica e veios semelhantes ás impressões 
+        digitais. O benefício destes rolos favorece a melhoria da circulação sanguínea e linfática, 
+        de modo a promover o alívio das dores musculares e articulares, favorecendo a regeneração 
+        endógena dos tecidos, através de um suporte selectivo. 
+    </string>
+    
+    <string name="life"><b>4LIFE EDIFICA VIDAS ATRAVÉS DA CIÊNCIA.</b>
+		\n4Life está comprometida em ser a primeira no que diz respeito à investigação e 
+		desenvolvimento de produtos de bem-estar com avanços inovadores na ciência de 
+		Factores de Transferência. Os produtos 4Life Transfer Factor são únicos, 
+		<b>ESTÃO PATENTEADOS E SEMPRE NA VANGUARDA.</b>
+		\nAjudam a reforçar o bem-estar geral do seu organismo. Esta Web foi criada 
+		com a intenção de fornecer a todos os interessados em alternativas naturais 
+		de melhorar a sua saúde, utilizando produtos com factores de transferência, 
+		sendo no momento o top de tecnologia em inteligência imunitária, trazendo para 
+		você a imunidade necessária para um viver melhor.
+    </string>
+    
+    <string name="spiral_tape">
+        Adesivos quadriculados de forte adesão à pele resistentes à água e hipoalérgicos. 
+        Utilizados na medicina oriental para aplicação em pontos de acupunctura, mas também 
+        para aplicar em pontos dolorosos e pontos gatilho do músculo, de modo a regular o 
+        tónus muscular e favorecer a regeneração dos tecidos moles. Constituídos por poliéster 
+        80%% poliuretano 15%% e acrílico 5%%.
+    </string>
+    
+    <string name="prof_saude"><i>Se é profissional de saúde, tem uma Ervanária ou Parafarmácia, 
+        venha conhecer as nossas condições comerciais e contacte-nos para mais informações.</i>
+    </string>
+       
+</resources>

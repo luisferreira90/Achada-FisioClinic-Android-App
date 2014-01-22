@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        
+    <string name ="podo1">
+        &#8226;Primeira consulta
+        \n&#8226;Suportes plantares
+    </string>
+    
+    <string name ="podo2">
+        &#8226;Consultas seguintes
+        \n\n&#8226;Consulta ao domicílio
+        \n\n&#8226;Tratamentos continuados
+        \n\n&#8226;Tratamento de verrugas
+        \n\n&#8226;Tratamente de úlceras
+        \n\n&#8226;Ortótese subfalângica total*
+        \n\n&#8226;Ortótese em anel*
+        \n\n&#8226;Ortótese interdigital*
+        \n\n&#8226;Ortótese metatársica*
+    </string>
+    
+    <string name="podo3">
+        &#8226;Consulta de controlo(suportes)
+	</string>
+	
+    <string name="podoexcep">
+        * A estes produtos acresce o valor da consulta de Tratamentos Continuados
+    </string>
+      
+    <string name ="podomorada">Rua da Carreira nº 100 2º Andar Sala P
+        \n9000-042 Funchal
+    </string>			
+    
+    <string name="podotelefone">291 630 171</string>
+    
+    <string name ="podoemail">podomedical@gmail.com</string>
+        
+</resources>

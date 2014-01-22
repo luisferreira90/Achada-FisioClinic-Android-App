@@ -1,0 +1,85 @@
+<HorizontalScrollView
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical"
+	android:paddingBottom="20dp"
+	android:scrollbarThumbHorizontal="@drawable/scrollbar"
+	android:background="@drawable/splash_vertical">
+        
+	<LinearLayout
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_gravity="bottom"
+		android:paddingRight="5dp"
+		android:paddingLeft="5dp">
+            
+        <ImageView
+            android:id="@+id/btnQuem"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"          
+            android:background="@null"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+            android:scaleX="0.7"
+            android:scaleY="0.7"
+            android:contentDescription="@string/acess_quem"
+            android:onClick="onClickQuem"     
+            android:src="@drawable/quem" />
+        
+        <ImageView
+            android:id="@+id/btnServicos"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+            android:scaleX="0.7"
+            android:scaleY="0.7"
+            android:background="@null"
+            android:contentDescription="@string/acess_servicos"
+            android:onClick="onClickServicos"
+            android:src="@drawable/servicos" />
+        
+        <ImageView
+            android:id="@+id/btnCartao"
+	        android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+            android:scaleX="0.7"
+            android:scaleY="0.7"
+			android:background="@null"
+	        android:src="@drawable/cartao"
+	        android:contentDescription="@string/acess_cartao"
+	        android:onClick="onClickCartao"/>               
+	        
+        <ImageView
+            android:id="@+id/btnProdutos"
+	        android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+            android:scaleX="0.7"
+            android:scaleY="0.7"
+			android:background="@null"
+	        android:src="@drawable/produtos"
+	        android:contentDescription="@string/acess_produtos"
+	        android:onClick="onClickProdutos"/>
+
+		<ImageView
+            android:id="@+id/btnContactos"
+	        android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+            android:scaleX="0.7"
+            android:scaleY="0.7"
+			android:background="@null"
+	        android:src="@drawable/contactos"
+	        android:contentDescription="@string/acess_contactos"
+	        android:onClick="onClickContactos"/>
+        
+	</LinearLayout>
+              
+</HorizontalScrollView>

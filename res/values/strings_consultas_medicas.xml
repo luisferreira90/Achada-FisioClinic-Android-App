@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_medicina_geral">Medicina Geral e Familiar</string>
+    <string name="title_ortopedia">Ortopedia</string>
+    <string name="title_neuropediatria">Neuropediatria e Pediatria</string>
+    <string name="title_medicina_interna">Medicina Interna</string>
+    <string name="title_gastrenterologia">Gastrenterologia e Hepatologia</string>
+    
+    <string name="medicina_geral">
+        Medicina Geral e Familiar é a denominação 
+        portuguesa para a Especialidade Médica que, tendo como objecto o ser 
+        humano como um todo, abrange toda a Medicina Geral, privilegiando a 
+        pessoa como ser único e diferente de todos os outros. Concentra-se na 
+        prestação de cuidados primários.
+		\nNesta Especialidade Médica, o indivíduo é observado na sua componente biológica, 
+		psicológica e social. A Família, como unidade, é igualmente seu objecto de estudo. 
+		Admite-se que a doença de uma pessoa afecta toda a sua família, sendo o inverso 
+		igualmente verdade. A dinâmica familiar pode afectar positiva ou negativamente a 
+		evolução da doença. Essencialmente esta especialidade desenvolve-se junto da 
+		comunidade, oferecendo cuidados próximo daqueles que são os seus utentes. Além de 
+		dar resposta à maioria dos problemas de saúde, o Médico de Família deve adoptar 
+		toda uma série de gestos de Medicina Preventiva assim como compreender a dinâmica 
+		familiar que envolve os seus utentes.
+	</string>
+	
+    <string name="ortopedia">
+        A ortopedia é a especialidade médica que trata das doenças e deformidades relacionados ao aparelho 
+        locomotor, nomeadamente dos ossos, músculos, ligamentos e articulações. A Traumatologia é a 
+        especialidade médica que lida com o trauma do aparelho músculo-esquelético. As especialidades 
+        são unificadas, recebendo o nome de "Ortopedia e Traumatologia".
+		\nExistem diversas doenças ósseas que independem do trauma, como o cancro ósseo, luxações congênitas e 
+		deformidades ósseas que necessitam de tratamento médico. As hérnias de disco, 
+		causadoras de dores intensas na coluna, podem ser operadas tanto por ortopedistas como por neurocirurgiões, dependendo de sua formação.
+		\nO aumento da velocidade de locomoção do ser humano trouxe também o trauma, 
+		considerada uma doença, ao contrário do antigo termo utilizado, que era "acidente".
+		\nOutro importante campo de atuação da especialidade é na área do esporte, 
+		onde temos as lesões esportivas com características próprias de cada esporte 
+		em particular (Um gesto, uma lesão).As lesões decorrentes das atividades 
+		esportivas envolvendo o sistema músculo-esquelético de modo geral envolvem 
+		os músculos, tendões, cápsula e ligamentos articulares e os ossos nos mais 
+		diversos graus de comprometimento, afastando o atleta de suas atividades 
+		esportivas por tempo determinado , de acordo com a gravidade da lesão.
+	</string>
+	
+    <string name="neuropediatria">
+        A Neuropediatria (também denominada Neurologia Pediátrica ou Neurologia Infantil) constitui 
+        uma especialidade ou subespecialidade médica dedicada às doenças ou disfunções do sistema 
+        nervoso e do sistema muscular que se manifestam na criança ou na adolescência.
+        
+		\n\nNas últimas décadas, graças aos enormes progressos das ciências básicas, das neurociências e da tecnologia, 
+		a Neuropediatria conheceu um excecional desenvolvimento.
+		
+		\n\nO Neuropediatra, como sucede noutras especialidades médicas, tem como função essencial o diagnóstico, 
+		prognóstico, orientação terapêutica e aconselhamento dos problemas neurológicos que afetam a criança ou o 
+		adolescente, incluindo as dificuldades da aprendizagem, perturbações do comportamento e as perturbações do sono.
+		
+		\n\nA Pediatria é a área da medicina responsável pela avaliação geral e seguimento da criança e adolescente.
+		
+		\n\nTem um papel importante na orientação preventiva necessária para um saudável 
+		crescimento e desenvolvimento do bebé, criança e jovem, através de ações 
+		preventivas desde a consulta pré-natal, às orientações do aleitamento materno, 
+		imunizações (vacinas), cuidados antecipatórios e prevenção de acidentes, 
+		bem como, a prevenção de doenças crónicas de aparecimento na idade adulta.
+    </string>
+    
+    <string name="medicina_interna">
+        A Medicina Interna é uma Especialidade Médica que visa a gestão da saúde do indivíduo adulto, 
+        centrando-se na capacidade de diagnosticar doenças tão simples como um fungo cutâneo, 
+        bem como doenças mais graves onde se inclui as neoplasias e doenças autoimunes.
+        
+		\n\nSegue e controla doenças crónicas, como a Diabetes, HTA, bronquite, asma, AVC, distúrbios de 
+		ansiedade e depressões, dor, doenças gástricas e intestinais, etc, bem como doenças agudas, 
+		tais como gripe, dengue, infeções urinárias, pneumonias, gastrites, doenças da pele, anemia, entre outras.
+    </string>
+    
+    <string name="gastrenterologia">
+        A Gastrenterologia e a Hepatologia são os ramos da medicina que se dedicam ao diagnóstico e tratamento das 
+        doenças do sistema digestivo (os órgãos do canal alimentar, desde a boca até ao ânus), do fígado, das 
+        vias biliares e do pâncreas.
+        
+		\n\nOs sintomas/sinais mais frequentes a estar alerta serão: Falta de apetite, emagrecimento, 
+		dificuldade em engolir, vómitos constantes, regurgitação de ácido gástrico ou de alimentos, 
+		azia, dor abdominal, massa abdominal, alterações do trânsito 
+		intestinal (diarreia arrastada ou dificuldade em evacuar), sensação de evacuação 
+		incompleta, sangue nas fezes, dor anal, icterícia (pele amarela) e ascite (aumento do abdómen por líquido).
+		
+		\n\nA partir dos 50 anos de idade (ou antes, em caso de história familiar 
+		ou de queixas relacionadas) deverá iniciar-se o rastreio do cancro colo-rectal, 
+		um dos mais frequentes em Portugal e no Mundo.
+    </string>
+
+</resources>

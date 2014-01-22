@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="acess_email">Enviar e-mail</string>  
+    <string name="acess_mapas">Ver direcções</string> 
+    <string name="acess_telefonar">Telefonar</string> 
+    <string name="acess_autocarros">Ver autocarros</string> 
+    
+    <string name="acess_descontos">Ver descontos</string> 
+    
+    <string name="acess_quem">Quem somos</string> 
+    <string name="acess_servicos">Serviços</string> 
+    <string name="acess_produtos">Produtos</string> 
+    <string name="acess_cartao">Cartão</string> 
+    <string name="acess_contactos">Contactos</string> 
+    
+    <string name="acess_cartao_cliente">Cartão cliente</string>
+    <string name="acess_cartao_premium">Cartão Premium</string>
+
+</resources>

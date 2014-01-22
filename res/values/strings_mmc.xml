@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_servico">Serviço</string>  
+    <string name="title_desconto">Desconto</string>
+        
+    <string name="mmc1">
+        &#8226;Meios de diagnostico (Análises Clínicas)
+        \n\n&#8226;Cardiologia(Holter, MAPA, Electrocardiografia, Eccocardiografia, Doppler, Provas de Esforço)
+        \n\n&#8226;Ecografias
+        \n\n&#8226;Electromiografia
+        \n\n&#8226;Gastrenterologia (endoscopias, colonoscopias)
+        \n\n&#8226;Radiologia Convencional, Radiologia Digital
+        \n\n&#8226;Ressonância Magnética (1,5 Tesla)
+        \n\n&#8226;Reumatologia (Capilaroscopia)
+        \n\n&#8226;TAC (TAC Multicorte c/ reconstrução 3D)
+        \n\n&#8226;Mamografia / Ecografia Mamária
+        \n\n&#8226;Intervenções Cirúrgicas - Piso Pequena Cirurgia (exclui honorários médicos
+    	e medicamentos/consumíveis)
+	</string>
+	
+    <string name ="mmcmorada">Rua do Hospital Velho, 23A
+        \n9060-129 Funchal
+    </string>		
+    
+    <string name="mmctelefone">291 003 300</string>
+    
+    <string name="mmcemail">geral@madeiramedicalcenter.pt</string>
+        
+    <string name ="doisporcento">
+        2\%%
+    </string>
+    
+    <string name ="cincoporcento">
+        5\%%
+    </string>
+    
+    <string name ="dezporcento">
+        10\%%
+    </string>
+    
+    <string name ="quinzeporcento">
+        15\%%
+    </string>
+    
+    <string name ="dezasseisporcento">
+        16\%%
+    </string>
+    
+    <string name ="vinteporcento">
+        20\%%
+    </string>
+    
+    <string name ="vintecincoporcento">
+        25\%%
+    </string>
+    
+    <string name ="vinteseteporcento">
+        27\%%
+    </string>
+    
+    <string name ="trintaporcento">
+        30\%%
+    </string>
+    
+    <string name ="trintatresporcento">
+        33\%%
+    </string>
+    
+    <string name ="quarentaporcento">
+        *40\%%
+    </string>
+    
+    <string name ="atevintedoisporcento">
+        Até 22,5\%%
+    </string>
+    
+    <string name ="atetrintacincoporcento">
+        Até 35,5\%%
+    </string>
+    
+    <string name ="atevinteseteporcento">
+        Até 27\%%
+    </string>
+    
+    <string name ="atequarentacincoporcento">
+        Até 45,4\%%
+    </string>
+    
+    <string name ="atequarentaoitoporcento">
+        Até 48\%%
+    </string>
+    
+    <string name ="gratuito">
+        Grátis
+    </string>
+    
+	
+</resources>

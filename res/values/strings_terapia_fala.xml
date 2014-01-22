@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+
+	<string name="terapia_fala"><b>O que é a Terapia da Fala?</b>
+    	\nEspecialidade multifacetada, a terapia da fala é o serviço de saúde mais 
+    	indicado para detectar, avaliar, diagnosticar e tratar as diferentes 
+    	dificuldades que possam estar a travar ou a dificultar o desenvolvimento 
+    	da comunicação humana.
+		\nApesar de se autodenominar “terapia da fala”, o seu campo de acção é bastante mais 
+		abrangente e incide sobre a reabilitação da linguagem, articulação, voz, deglutição 
+		(actos de mastigar e engolir), a leitura e a escrita.
+		\nA capacidade de comunicar eficazmente poderá ser comprometida em qualquer idade 
+		(criança, adolescente e adulto), fruto de causas inatas (ex: surdez; 
+		deficiência mental, etc…); adquiridas (ex: lesão cerebral por a.v.c., etc…) 
+		ou de desenvolvimento.
+	</string>
+
+	<string name="list_terapia_fala"><b>São essencialmente 5 (cinco) as vertentes da incidência  da Terapia da Fala:</b>
+		\n\n<b>1. Perturbações da Linguagem</b>
+		\nNa criança - Atraso do Desenvolvimento da Linguagem;
+		\n&#8226;Perturbação Específica da Linguagem.
+		\nNo adulto - Afasia;
+		\n&#8226;Perturbações Cognitivas/Linguísticas.
+		
+		\n\n<b>2. Perturbações da Fala</b>
+		\nEm todas as faixas etárias - Perturbações Articulatórias;
+		\n&#8226;Gaguez;
+		\n&#8226;Disartrias;
+		\n&#8226;Apraxias.
+		
+		\n\n<b>3. Perturbações da Voz</b>
+		\nEm todas as faixas etárias – Disfonias(rouquidões);
+		
+		\n\n<b>4. Perturbações da Deglutição</b>
+		\nEm todas as faixas etárias  - Disfagias.
+		
+		\n\n<b>5. Perturbações da Leitura e Escrita</b>
+		\nNa criança e adolescentes/adultos – Dislexia.
+		
+		\n\n<b>Alguns Sinais de Risco:</b>
+		
+		\n\nEm idade pré-escolar
+		\n&#8226;Durante o 1º. Ano de vida é um bebé silencioso (não brinca através de jogos vocais);
+		\n&#8226;Aos 2 anos ainda não fala ou só produz vogais;
+		\n&#8226;Aos 3 anos não produz uma frase completa, e/ou tem dificuldades em 
+		compreender pedidos/recados), não acompanha as outras crianças da mesma idade; e
+		\n&#8226;Aos 4/5 anos o seu discurso é pouco estruturado.
+		
+		\n\nEm idade escolar:
+		\n&#8226;Tem problemas de rendimento escolar;
+		\n&#8226;Omite e/ou troca sons na palavra;
+		\n&#8226;Tem dificulade em associar o som à letra correspondente e vice-versa;
+		\n&#8226;Não realiza, sem ajuda, as tarefas propostas;
+		\n&#8226;Tem dificuldade de interacção com os colegas (colegas não o entendem).
+		
+		\n\nEm adultos:
+		\n&#8226;Rouquidão persistente (tb em crianças e adolescentes);
+		\n&#8226;Repetição de sons, sílabas e palavras (tb em crianças e adolescentes);
+		\n&#8226;Dificuldade em compreender o que lhe é dito ou em 
+		expressar-se coerentemente, quando no passado não evidenciava essas dificuldades.
+	
+		\n\n“Se perdesse todas as minhas capacidades, todas elas menos 
+		uma, escolheria ficar com a capacidade para comunicar, porque com ela recuperaria tudo o resto”
+		\n<i><b>Daniel Webster</b></i>
+	</string>
+       
+</resources>

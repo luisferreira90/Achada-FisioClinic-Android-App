@@ -1,0 +1,212 @@
+<ScrollView
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical"
+	android:scrollbarThumbVertical="@drawable/scrollbar"
+	android:background="#FFFFFF">
+
+	<LinearLayout 
+	    android:paddingLeft="35dp"
+	    android:paddingRight="35dp"
+	    android:paddingTop="10dp"
+	    android:layout_width="fill_parent"
+	  	android:layout_height="wrap_content"
+	  	android:orientation="vertical">
+	   
+	    <TextView
+		    android:id="@+id/txtTitle"
+		    android:text="@string/title_contactos"
+	   	    android:fontFamily="sans-serif"
+	   	    android:layout_width="wrap_content"
+	   	    android:layout_height="wrap_content"
+	   	    android:textStyle="bold"
+	   	    android:textSize="35sp"/>
+			   	
+	   	<View
+		    android:layout_width="fill_parent"
+		    android:layout_height="2dp"
+		    android:background="@android:color/darker_gray"/>
+	   	
+	   	<TextView
+		    android:fontFamily="sans-serif"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="40dp"
+		    android:textStyle="bold" 
+		    android:textSize="25sp"
+		    android:text="@string/title_horario" />
+	
+	    <TextView
+	        android:id="@+id/txtHorario"
+	   	    android:fontFamily="sans-serif"
+	   	    android:layout_width="wrap_content"
+	   	    android:layout_height="wrap_content"
+	   	    android:paddingTop="20dp"
+	   	    android:text="@string/txtHorario" 
+	   	    android:textSize="20sp" />   
+			   	
+	    <TextView
+		    android:fontFamily="sans-serif"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="40dp"
+		    android:textStyle="bold" 
+		    android:textSize="25sp"
+		    android:text="@string/title_endereco" />
+	    
+	    <LinearLayout
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal"
+            android:weightSum="1">
+	    
+		    <TextView
+		        android:id="@+id/txtEndereco"
+		   	    android:fontFamily="sans-serif"
+		   	    android:layout_width="0dp"
+		   	    android:layout_height="wrap_content"
+		   	    android:layout_weight="0.75"
+		        android:layout_gravity="center|left"
+		        android:gravity="center|left"
+		   	    android:text="@string/txtEndereco" 
+		   	    android:textSize="20sp" />
+		    
+		    <ImageButton
+		   	    android:id="@+id/btnMapa"
+		   	    android:layout_width="0dp"
+		   	    android:layout_height="wrap_content"
+		   	   	android:layout_weight="0.25"
+	    	    android:layout_gravity="center|right"
+	    	    android:gravity="center|right"
+		   	    android:background="@null"
+		   	    android:src="@drawable/maps"
+		   	    android:contentDescription="@string/acess_mapas"
+		   	    android:onClick="onClickShowMap" />
+	    
+	    </LinearLayout>
+	    
+	    <TextView
+		    android:fontFamily="sans-serif"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="40dp"
+		    android:textStyle="bold" 
+		    android:textSize="25sp"
+		    android:text="@string/title_telefone" />
+	    
+	    <LinearLayout
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal"
+            android:weightSum="1">
+	    
+		    <TextView
+		        android:id="@+id/txtTelefone"
+		   	    android:fontFamily="sans-serif"
+		   	    android:layout_width="0dp"
+		   	    android:layout_height="wrap_content"
+		   	    android:layout_weight="0.75"
+		        android:layout_gravity="center|left"
+		        android:gravity="center|left"
+		   	    android:text="@string/txtTelefone" 
+		   	    android:textSize="20sp" />
+		    
+		     <ImageButton
+		   	    android:id="@+id/btnTelefone"
+		   	    android:layout_width="0dp"
+		   	    android:layout_height="wrap_content"
+		   	   	android:layout_weight="0.25"
+	    	    android:layout_gravity="center|right"
+	    	    android:gravity="center|right"
+		   	    android:background="@null"
+		   	    android:src="@drawable/telefone"
+		   	    android:contentDescription="@string/acess_telefonar"
+		   	    android:onClick="onClickTelefone" />
+	    
+	    </LinearLayout>
+	    
+	    <TextView
+		    android:fontFamily="sans-serif"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="40dp"
+		    android:textStyle="bold" 
+		    android:textSize="25sp"
+		    android:text="@string/title_email" />
+	    
+	    <LinearLayout
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal"
+            android:weightSum="1">
+	    
+		    <TextView
+		        android:id="@+id/txtEmail"
+		   	    android:fontFamily="sans-serif"
+		   	    android:layout_width="0dp"
+		   	    android:layout_height="wrap_content"
+		   	    android:layout_weight="0.75"
+		        android:layout_gravity="center|left"
+		        android:gravity="center|left"
+		   	    android:text="@string/txtEmail" 
+		   	    android:textSize="20sp" />
+		    
+		     <ImageButton
+		   	    android:id="@+id/btnEmail"
+		   	    android:layout_width="0dp"
+		   	    android:layout_height="wrap_content"
+		   	    android:layout_weight="0.25"
+	    	    android:layout_gravity="center|right"
+	    	    android:gravity="center|right"
+		   	    android:background="@null"
+		   	    android:src="@drawable/email"
+		   	    android:contentDescription="@string/acess_email"
+		   	    android:onClick="onClickEmail" />
+	    
+	    </LinearLayout>
+	    
+	    <TextView
+		    android:fontFamily="sans-serif"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="40dp"
+		    android:textStyle="bold" 
+		    android:textSize="25sp"
+		    android:text="@string/title_carreira" />
+	    
+	    <LinearLayout
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal"
+            android:weightSum="1">
+	    
+		    <TextView
+		        android:id="@+id/txtCarreira"
+		   	    android:fontFamily="sans-serif"
+		   	    android:layout_width="0dp"
+		   	    android:layout_height="wrap_content"
+		   	    android:layout_weight="0.75"
+		        android:layout_gravity="center|left"
+		        android:gravity="center|left"
+		   	    android:text="@string/txtCarreira" 
+		   	    android:textSize="20sp" />
+		    
+		    <ImageButton
+		   	    android:id="@+id/btnCarreira"
+		   	    android:layout_width="0dp"
+		   	    android:layout_height="wrap_content"
+		   	   	android:layout_weight="0.25"
+	    	    android:layout_gravity="center|right"
+	    	    android:gravity="center|right"
+		   	    android:background="@null"
+		   	    android:src="@drawable/carreira"
+		   	    android:contentDescription="@string/acess_autocarros"
+		   	    android:onClick="onClickShowCarreira" />
+	    
+	    </LinearLayout>
+	
+	</LinearLayout>
+
+</ScrollView>

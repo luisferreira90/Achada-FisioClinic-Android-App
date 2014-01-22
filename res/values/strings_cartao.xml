@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_cartao">Cartão Cliente da Fisioclinic</string>  
+    <string name="title_cartao_premium">Achada Fisioclinic Cartão Premium</string>
+    <string name="title_cartao_cliente">Achada Fisioclinic Cartão Cliente</string>
+        
+    <string name="cartao_premium">
+        &#8226;O cartão premium garante acesso a vários serviços de saúde a preços reduzidos numa rede prestadores GRUPO ACHADA FISIOCLINIC.
+		\n&#8226;Ao aderir a este cartão beneficia de um seguro de acidentes pessoais, o qual tem a mais valia de não ter franquia nem periodo de carência.
+		\n&#8226;Venha conhecer as vantagens do novo cartão Premium!
+	</string>
+	
+    <string name="cartao_cliente">
+		&#8226;O cartão exclusivo para clientes da Medicina do Trabalho - Higiene e Segurança.
+		\n&#8226;Se ainda não é nosso cliente da Medicina no Trabalho - Higiene e Segurança, pergunte-nos como obter estes descontos para si e para os seus colaboradores.
+		\n&#8226;O cartão cliente garante acesso a vários serviços de saúde a preços reduzidos numa rede de prestadores do GRUPO ACHADA FISIOCLINIC para si e para a sua família. 
+    </string>
+    
+    <string name="cartao_premium_long">
+        Apresentação
+        
+        \n\nA Achada Fisioclinic vem por este meio fazer a apresentação do nosso Cartão Premium, 
+        assim como as vantagens que o cartão possui.
+
+		\n\nO Cartão Achada Fisioclinic Premium foi recentemente desenvolvido com o intuito 
+		de proporcionar aos nossos clientes benefícios/descontos dentro dos serviços prestados 
+		pela Achada Fisioclinic e pelos nossos parceiros. O Cartão Premium tem a grande mais 
+		valia de estar associado a um seguro de acidentes pessoais.
+		
+		\n\nAo aderir a este Cartão o cliente terá direito a usufruir de um seguro de acidentes 
+		pessoais extraprofissionais, o qual apresentamos no Anexo I. Ressalvamos que este 
+		seguro não tem franquia nem período de carência.
+		
+		\n\nDeste modo, além do seguro subscrito, os clientes com cartão Premium poderão 
+		aceder a uma série alargada de serviços, desde as especialidades médicas, 
+		passando pela fisioterapia, cuidados de enfermagem, acompanhamento de idosos, 
+		podologia até à medicina dentária.
+		
+		\n\nNas clínicas abrangidas por esta parceria e mediante a apresentação do cartão 
+		Achada Fisioclinic Premium, o nosso cliente terá acesso a vários serviços de 
+		saúde a preços mais acessíveis, conforme pode confirmar na listagem de parceiros 
+		e respetivos descontos que apresentamos nas páginas seguintes.
+		
+		\n\nPara subscrever o seu cartão Achada Fisioclinic Premium, basta dirigir-se às 
+		nossas instalações no Caminho da Achada nº 20 A, Funchal, onde a nossa equipa 
+		se encontra ao seu dispor, 24h/dia, onde for necessário, garantindo a 
+		excelência nos serviços prestados.
+		
+		\n\nNestas clínicas mediante a apresentação do nosso cartão cliente, o nosso 
+		cliente/parceiro, poderá usufruir dos descontos nos vários serviços de 
+		saúde apresentados nas tabelas abaixo.
+    </string>
+    
+    <string name="cartao_cliente_long">
+        Apresentação
+        
+        \n\nA Achada Fisioclinic vem por este meio fazer a apresentação do nosso 
+        Cartão Cliente Achada Fisioclinic, assim como as vantagens que o cartão possui.
+		\nO Cartão Cliente Achada Fisioclinic foi recentemente desenvolvido 
+		com o intuito de proporcionar aos nossos clientes da Medicina do 
+		Trabalho - Higiene e Segurança benefícios/descontos dentro dos 
+		serviços prestados pela Achada Fisioclinic e pelos nossos parceiros - GRUPO ACHADA FISIOCLINIC .
+		
+		\n\nEste Cartão é exclusivo para para os clientes da Medicina do Trabalho - Higiene e Segurança.
+		
+		\n\nAo aderir a este Cartão os clientes com Cartão Cliente poderão 
+		aceder a um conjunto alargado de serviços, desde as especialidades 
+		médicas, passando pela fisioterapia, cuidados de enfermagem, 
+		acompanhamento de idosos, podologia até à medicina dentária.
+		
+		\n\nNas clínicas abrangidas por esta parceria e mediante a apresentação 
+		do Cartão Cliente Achada Fisioclinic, o nosso cliente terá apreços mais 
+		acessíveis, conforme pode confirmar na listagem de parceiros e respetivos 
+		descontos que apresentamos nas tabelas das páginas seguintes.
+		
+		\n\nPara subscrever o seu cartão, basta dirigir-se às nossas instalações 
+		no Caminho da Achada nº 20 A, Funchal, onde a nossa equipa se encontra 
+		ao seu dispor, garantindo a excelência nos serviços prestados.
+    </string>
+       
+</resources>

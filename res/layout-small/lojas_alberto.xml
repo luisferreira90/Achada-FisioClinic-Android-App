@@ -1,0 +1,470 @@
+<ScrollView
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical"
+	android:scrollbarThumbVertical="@drawable/scrollbar"
+	android:background="#FFFFFF">
+	
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="15dp"
+        android:paddingLeft="15dp"
+    	android:paddingRight="15dp"
+        android:orientation="vertical">
+
+        <TextView
+	   	    android:fontFamily="sans-serif"
+	   	    android:layout_width="wrap_content"
+	   	    android:layout_height="wrap_content"
+	   	    android:textStyle="bold"
+	   	    android:textSize="35sp"
+	   	    android:text="@string/title_albertolojas"/>
+		   	
+   		<View
+		    android:layout_width="fill_parent"
+		    android:layout_height="2dp"
+		    android:background="@android:color/darker_gray"/>
+   		
+		<TextView
+		    android:fontFamily="sans-serif"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="40dp"
+		    android:textStyle="bold" 
+		    android:textSize="25sp"
+		    android:text="@string/title_funchal" />
+   		
+		<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="25dp"
+            android:paddingBottom="25dp"
+            android:orientation="horizontal"
+            android:weightSum="1">
+	    
+		    <TextView
+		   	    android:fontFamily="sans-serif"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="0.75"
+				android:layout_gravity="center|left"
+				android:gravity="center|left"
+		   	    android:text="@string/enderecofunchal1" 
+		   	    android:textSize="20sp" />
+		    
+		     <ImageButton
+		   	    android:fontFamily="sans-serif"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="0.25"
+				android:layout_gravity="center|right"
+				android:gravity="center|right"
+		   	    android:background="@null"
+		   	    android:src="@drawable/maps"
+		   	    android:tag="32.64924,-16.90609?q=32.64924,-16.90609"
+		   	    android:onClick="onClickShowMap" />
+		     
+	    </LinearLayout>
+	    
+		<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="25dp"
+            android:paddingBottom="25dp"
+            android:orientation="horizontal"
+            android:weightSum="1">
+	    
+		    <TextView
+		   	    android:fontFamily="sans-serif"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="0.75"
+				android:layout_gravity="center|left"
+				android:gravity="center|left"
+		   	    android:text="@string/enderecofunchal2" 
+		   	    android:textSize="20sp" />
+		    
+		     <ImageButton
+		   	    android:fontFamily="sans-serif"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="0.25"
+				android:layout_gravity="center|right"
+				android:gravity="center|right"
+		   	    android:background="@null"
+		   	    android:src="@drawable/maps"
+		   	    android:tag="32.64947,-16.90660?q=Alberto Oculista"
+		   	    android:onClick="onClickShowMap" />
+		     
+	    </LinearLayout>
+	    
+		<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="25dp"
+            android:paddingBottom="25dp"
+            android:orientation="horizontal"
+            android:weightSum="1">
+	    
+		    <TextView
+		   	    android:fontFamily="sans-serif"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="0.75"
+				android:layout_gravity="center|left"
+				android:gravity="center|left"
+		   	    android:text="@string/enderecofunchal3" 
+		   	    android:textSize="20sp" />
+		    
+		     <ImageButton
+		   	    android:fontFamily="sans-serif"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="0.25"
+				android:layout_gravity="center|right"
+				android:gravity="center|right"
+		   	    android:background="@null"
+		   	    android:src="@drawable/maps"
+		   	    android:tag="32.64900,-16.90492?q=32.64900,-16.90492"
+		   	    android:onClick="onClickShowMap" />
+		     
+	    </LinearLayout>
+	    
+		<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="25dp"
+            android:paddingBottom="25dp"
+            android:orientation="horizontal"
+            android:weightSum="1">
+	    
+		    <TextView
+		   	    android:fontFamily="sans-serif"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="0.75"
+				android:layout_gravity="center|left"
+				android:gravity="center|left"
+		   	    android:text="@string/enderecofunchal4" 
+		   	    android:textSize="20sp" />
+		    
+		     <ImageButton
+		   	    android:fontFamily="sans-serif"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="0.25"
+				android:layout_gravity="center|right"
+				android:gravity="center|right"
+		   	    android:background="@null"
+		   	    android:src="@drawable/maps"
+		   	    android:tag="32.64851,-16.90647?q=32.64851,-16.90647"
+		   	    android:onClick="onClickShowMap" />
+		     
+	    </LinearLayout>
+	    
+		<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="25dp"
+            android:paddingBottom="25dp"
+            android:orientation="horizontal"
+            android:weightSum="1">
+	    
+		    <TextView
+		   	   android:fontFamily="sans-serif"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="0.75"
+				android:layout_gravity="center|left"
+				android:gravity="center|left"
+		   	    android:text="@string/enderecofunchal5" 
+		   	    android:textSize="20sp" />
+		    
+		     <ImageButton
+		   	    android:fontFamily="sans-serif"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="0.25"
+				android:layout_gravity="center|right"
+				android:gravity="center|right"
+		   	    android:background="@null"
+		   	    android:src="@drawable/maps"
+		   	    android:tag="32.64618,-16.91236?q=32.64618,-16.91236"
+		   	    android:onClick="onClickShowMap" />
+		     
+	    </LinearLayout>
+	    
+		<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="25dp"
+            android:paddingBottom="25dp"
+            android:orientation="horizontal"
+            android:weightSum="1">
+	    
+		    <TextView
+		   	    android:fontFamily="sans-serif"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="0.75"
+				android:layout_gravity="center|left"
+				android:gravity="center|left"
+		   	    android:text="@string/enderecofunchal6" 
+		   	    android:textSize="20sp" />
+		    
+		     <ImageButton
+		   	    android:fontFamily="sans-serif"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="0.25"
+				android:layout_gravity="center|right"
+				android:gravity="center|right"
+		   	    android:background="@null"
+		   	    android:src="@drawable/maps"
+		   	    android:tag="32.63608,-16.94073?q=32.63608,-16.94073"
+		   	    android:onClick="onClickShowMap" />
+		     
+	    </LinearLayout>
+	    
+		<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="25dp"
+            android:paddingBottom="25dp"
+            android:orientation="horizontal"
+            android:weightSum="1">
+	    
+		    <TextView
+		   	    android:fontFamily="sans-serif"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="0.75"
+				android:layout_gravity="center|left"
+				android:gravity="center|left"
+		   	    android:text="@string/enderecofunchal7" 
+		   	    android:textSize="20sp" />
+		    
+		     <ImageButton
+		   	   android:fontFamily="sans-serif"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="0.25"
+				android:layout_gravity="center|right"
+				android:gravity="center|right"
+		   	    android:background="@null"
+		   	    android:src="@drawable/maps"
+		   	    android:tag="32.66156,-16.93525?q=32.66156,-16.93525"
+		   	    android:onClick="onClickShowMap" />
+		     
+	    </LinearLayout>
+	    
+		<TextView
+		    android:fontFamily="sans-serif"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="40dp"
+		    android:textStyle="bold" 
+		    android:textSize="25sp"
+		    android:text="@string/title_ribeirabrava" />
+   		
+		<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="25dp"
+            android:paddingBottom="25dp"
+            android:orientation="horizontal"
+            android:weightSum="1">
+	    
+		    <TextView
+		   	   	android:fontFamily="sans-serif"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="0.75"
+				android:layout_gravity="center|left"
+				android:gravity="center|left"
+		   	    android:text="@string/enderecoribeirabrava" 
+		   	    android:textSize="20sp" />
+		    
+		     <ImageButton
+		   	    android:fontFamily="sans-serif"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="0.25"
+				android:layout_gravity="center|right"
+				android:gravity="center|right"
+		   	    android:background="@null"
+		   	    android:src="@drawable/maps"
+	    		android:tag="32.67181,-17.06486?q=32.67181,-17.06486"
+		   	    android:onClick="onClickShowMap" />
+		     
+	    </LinearLayout>
+	    
+		<TextView
+		    android:fontFamily="sans-serif"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="40dp"
+		    android:textStyle="bold" 
+		    android:textSize="25sp"
+		    android:text="@string/title_machico" />
+   		
+		<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="25dp"
+            android:paddingBottom="25dp"
+            android:orientation="horizontal"
+            android:weightSum="1">
+	    
+		    <TextView
+		   	    android:fontFamily="sans-serif"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="0.75"
+				android:layout_gravity="center|left"
+				android:gravity="center|left"
+		   	    android:text="@string/enderecomachico" 
+		   	    android:textSize="20sp" />
+		    
+		     <ImageButton
+		   	    android:fontFamily="sans-serif"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="0.25"
+				android:layout_gravity="center|right"
+				android:gravity="center|right"
+		   	    android:background="@null"
+		   	    android:src="@drawable/maps"
+		   	    android:tag="32.71712,-16.76546?q=32.71712,-16.76546"
+		   	    android:onClick="onClickShowMap" />
+		     
+	    </LinearLayout>
+	    
+		<TextView
+		    android:fontFamily="sans-serif"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="40dp"
+		    android:textStyle="bold" 
+		    android:textSize="25sp"
+		    android:text="@string/title_camaralobos" />
+   		
+		<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="25dp"
+            android:paddingBottom="25dp"
+            android:orientation="horizontal"
+            android:weightSum="1">
+	    
+		    <TextView
+		   	    android:fontFamily="sans-serif"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="0.75"
+				android:layout_gravity="center|left"
+				android:gravity="center|left"
+		   	    android:text="@string/enderecocamaralobos" 
+		   	    android:textSize="20sp" />
+		    
+		     <ImageButton
+		   	    android:fontFamily="sans-serif"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="0.25"
+				android:layout_gravity="center|right"
+				android:gravity="center|right"
+		   	    android:background="@null"
+		   	    android:src="@drawable/maps"
+		   	    android:tag="32.64928,-16.97672?q=32.64928,-16.97672"
+		   	    android:onClick="onClickShowMap" />
+		     
+	    </LinearLayout>
+	    
+		<TextView
+		    android:fontFamily="sans-serif"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="40dp"
+		    android:textStyle="bold" 
+		    android:textSize="25sp"
+		    android:text="@string/title_canico" />
+   		
+		<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="25dp"
+            android:paddingBottom="25dp"
+            android:orientation="horizontal"
+            android:weightSum="1">
+	    
+		    <TextView
+		   	    android:fontFamily="sans-serif"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="0.75"
+				android:layout_gravity="center|left"
+				android:gravity="center|left"
+		   	    android:text="@string/enderecocanico" 
+		   	    android:textSize="20sp" />
+		    
+		     <ImageButton
+		   	    android:fontFamily="sans-serif"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="0.25"
+				android:layout_gravity="center|right"
+				android:gravity="center|right"
+		   	    android:background="@null"
+		   	    android:src="@drawable/maps"
+		   	    android:tag="32.65333,-16.84171?q=32.65333,-16.84171"
+		   	    android:onClick="onClickShowMap" />
+		     
+	    </LinearLayout>
+	    
+		<TextView
+		    android:fontFamily="sans-serif"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="40dp"
+		    android:textStyle="bold" 
+		    android:textSize="25sp"
+		    android:text="@string/title_santacruz" />
+   		
+		<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="25dp"
+            android:paddingBottom="25dp"
+            android:orientation="horizontal"
+            android:weightSum="1">
+	    
+		    <TextView
+		   	    android:fontFamily="sans-serif"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="0.75"
+				android:layout_gravity="center|left"
+				android:gravity="center|left"
+		   	    android:text="@string/enderecosantacruz" 
+		   	    android:textSize="20sp" />
+		    
+		     <ImageButton
+		   	   android:fontFamily="sans-serif"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="0.25"
+				android:layout_gravity="center|right"
+				android:gravity="center|right"
+		   	    android:background="@null"
+		   	    android:src="@drawable/maps"
+		   	    android:tag="32.68764,-16.79417?q=32.68764,-16.79417"
+		   	    android:onClick="onClickShowMap" />
+		     
+	    </LinearLayout>
+     
+ 	</LinearLayout>
+ 	
+</ScrollView>

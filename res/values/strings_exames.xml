@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="title_analises_clinicas">Análises clínicas</string>
+    <string name="title_electrocardiograma">Electrocardiograma (ECG)</string>
+    <string name="title_pronutri">PRONUTRI® - Exame de intolerância alimentar</string>
+
+    <string name="analises_clinicas">
+		As análises clínicas são um dos mais importantes meios 
+		complementares de diagnóstico colocados à disposição dos Médicos. 
+		Consistem, fundamentalmente, na detecção e/ou medição de determinadas 
+		substâncias ou microrganismos em amostras de produtos biológicos (sangue, 
+		urina, fezes, saliva, etc.).
+
+		\n\nFazemos análises clínicas das 8 horas às 11 horas de 2ª feira a sábado.
+		
+		\n\nTrabalhamos em parceria com o laboratório do Dr. Teixeira e Góis.
+		
+		\n\nFazemos análises ao domicílio por marcação sem qualquer tipo de cobrança.
+		Também temos parcerias com diversas instituições nomeadamente:  
+		PSP, GNR, Ministério da Justiça, SAMS Normal, SAMS Quadros, SIBS - 
+		Sindicato Bancários, Caixa -  Seg. Social, 
+		ADSE Normal, Portugal Telecom – PT.
+    </string>
+    
+    <string name="electrocardiograma">
+        O electrocardiograma é um exame de saúde na área de cardiologia 
+        que detecta e regista actividade eléctrica do coração para 
+        localizar problemas cardíacos. Os sinais eléctricos fazem o 
+        músculo cardíaco contrair à medida que viajam através do coração.
+
+		\n\nQuando o coração contrai ele bombeia sangue para o resto do corpo. 
+		O electrocardiograma mostra a rapidez das 
+		batidas do coração e seu ritmo. Ele ainda regista 
+		a força e ritmo dos sinais eléctricos à medida que 
+		eles passam por cada parte do coração.
+		
+		\n\nFazemos electrocardiogramas (ECG), sendo o 
+		relatório observado por um cardiologista.
+		
+		\n\nRealizamos o ECG das 08h às 21h de 2ª a 6ª e sábado das 08h às 14h.
+    </string>
+    
+    <string name="pronutri"><b>Sabe se algum alimento é prejudicial ao seu organismo?</b>
+
+		\n\nO PRONUTRI® é um exame de intolerâncias alimentares a 520 alimentos, 
+		que nos permite planear eficazmente uma dieta para diversas 
+		patologias, indicando os alimentos que devem ser evitados e 
+		os que devem ser ingeridos com mais frequência ou moderadamente.
+		
+		\n\nEste exame pode ajudar a fornecer uma alimentação saudável em 
+		que os alimentos são completamente digeridos, metabolizados 
+		sem serem armazenados sobre a forma de gordura e sem 
+		provocarem reacções inflamatórias.
+		
+		\n\nO PRONUTRI® pode ser útil, tanto na perda de peso, como 
+		no aumento, mas essencialmente para prevenir patologias.
+		
+		\n\nPara além do aumento de peso, muitas patologias têm sido 
+		associadas a intolerâncias alimentares, tais como: 
+		problemas gastrointestinais, enxaquecas, dor de cabeça, 
+		ansiedade, depressão, cansaço, dermatites, eczemas, dor 
+		abdominal, enfartamento, asma, rinite, doenças inflamatórias, 
+		alterações de humor e irritabilidade, cansaço, reacções inflamatórias.
+		
+		\n\nAs necessidades energéticas e nutricionais variam ao longo da 
+		vida em função das alterações físicas e morfológicas do organismo.
+		
+		\n\nNão somos todos iguais, cada pessoa necessita de um tipo de 
+		alimentação individual baseada nas suas necessidades bioquímicas.
+		
+		\n\nPara conseguir uma saúde óptima é vital descobrir as 
+		necessidades individuais do organismo.
+		
+		\n\n<b>Nós podemos dar a resposta!</b>
+		
+		\n\nNutrição óptima, significa respeitar a individualidade 
+		bioquímica, proporcionando todos os nutrientes adequados 
+		às células para  que estas funcionem o melhor possível.
+    </string>
+       
+</resources>

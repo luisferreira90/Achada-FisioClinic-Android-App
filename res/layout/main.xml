@@ -1,0 +1,75 @@
+<HorizontalScrollView
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical"
+	android:paddingBottom="20dp"
+	android:scrollbarThumbHorizontal="@drawable/scrollbar"
+	android:background="@drawable/splash_vertical">
+        
+	<LinearLayout
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_gravity="bottom"
+		android:paddingBottom="40dp">
+            
+        <ImageButton 
+	        android:id="@+id/btnQuem"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+			android:scaleType="fitXY"
+			android:paddingLeft="30dp"
+			android:background="@null"
+	        android:src="@drawable/quem"
+	        android:contentDescription="@string/acess_quem"
+	        android:onClick="onClickQuem"/>
+        
+     	<ImageButton
+			android:id="@+id/btnServicos"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:scaleType="fitXY"
+			android:paddingLeft="55dp"
+			android:background="@null"
+			android:src="@drawable/servicos"
+			android:contentDescription="@string/acess_servicos"
+			android:onClick="onClickServicos"/>
+        
+        <ImageButton
+            android:id="@+id/btnCartao"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+			android:scaleType="fitXY"
+			android:paddingLeft="30dp"
+			android:background="@null"
+	        android:src="@drawable/cartao"
+	        android:contentDescription="@string/acess_cartao"
+	        android:onClick="onClickCartao"/>             
+	        
+        <ImageButton
+            android:id="@+id/btnProdutos"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+			android:scaleType="fitXY"
+			android:paddingLeft="30dp"
+			android:background="@null"
+	        android:src="@drawable/produtos"
+	        android:contentDescription="@string/acess_produtos"
+	        android:onClick="onClickProdutos"/>
+	        		
+		<ImageButton
+            android:id="@+id/btnContactos"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+			android:scaleType="fitXY"
+			android:paddingLeft="55dp"
+			android:paddingRight="40dp"	
+			android:background="@null"
+	        android:src="@drawable/contactos"
+	        android:contentDescription="@string/acess_contactos"
+	        android:onClick="onClickContactos"/>
+        
+	</LinearLayout>
+              
+</HorizontalScrollView>

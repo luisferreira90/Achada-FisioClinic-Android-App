@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        
+    <string name ="labpsi1">
+        &#8226;Avaliação psicológica para condutores
+    </string>
+   	        
+    <string name ="labpsimorada">Caminho da Achada nº20 A
+        \n9000-208 Funchal
+    </string>		
+    
+    <string name="labpsitelefone">291 751 393</string>
+          	
+</resources>

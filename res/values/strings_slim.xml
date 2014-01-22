@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        
+    <string name ="slim1">
+        &#8226;Cavitação*
+        \n&#8226;Radiofrequência*
+    </string>
+    
+    <string name ="slim2">
+        &#8226;LipoT* (Infravermelhos e electroestimulação + cavitação + Radiofrequência)
+    </string>
+    
+    <string name="slim3">
+        &#8226;Ionithermie
+	</string>
+	
+    <string name="slim4">
+        &#8226;Lipotermie (Cavitação/Radiofrequência + Ionithermie)
+	</string>
+	
+    <string name="slim5">
+        &#8226;Affina Svelte
+	</string>
+	
+    <string name="slim6">
+        &#8226;Drenagem Linfática Manual
+        \n&#8226;Massagem Adelgaçante
+	</string>
+	
+    <string name="slimexcep">
+        * Tratamentos de drenagem linfática manual incluídos
+    </string>
+	
+    <string name ="slimmorada">Estrada Monumental, nº 284 
+        \nC.C. Monumental Lido
+        \n3º Andar Loja 6/7
+        \n9000-250 Funchal
+    </string>		
+    
+    <string name="slimtelefone">291 105 900</string>
+    
+    <string name="slimemail">slimandsvelte.funchal@gmail.com</string>
+           	
+</resources>

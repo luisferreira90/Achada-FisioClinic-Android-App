@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="title_medtrabalho">Medicina do trabalho ou medicina ocupacional</string>
+    <string name="title_higiene">Higiene e Segurança no trabalho</string>
+    <string name="title_vantagens">Vantagens</string>
+    
+    <string name="medtrabalho1">Os serviços de segurança, higiene e saúde no trabalho 
+        são de carácter obrigatório, conforme consta na 
+        <b>lei 102/2009 de 10 de Setembro</b>, que regulamenta o 
+        regime jurídico da promoção e prevenção de segurança e saúde no trabalho.
+    </string>
+    
+	<string name="medtrabalho2">
+	    É uma especialidade médica que se ocupa da promoção e 
+	    preservação da saúde do trabalhador. O médico do trabalho avalia a capacidade 
+	    do candidato a determinado trabalho e realiza reavaliações periódicas de sua 
+	    saúde dando ênfase aos riscos ocupacionais aos quais este trabalhador fica exposto.
+    </string>
+    
+    <string name="higiene">A <b>higiene e a segurança</b> são duas actividades que estão intimamente 
+        relacionadas com o objectivo de garantir condições de trabalho capazes de manter um nível 
+        de saúde dos colaboradores e trabalhadores de uma empresa. Segundo a O.M.S.- Organização 
+        Mundial de Saúde, a verificação de condições de Higiene e Segurança consiste \"num estado de 
+        bem-estar físico, mental e social e não somente a ausência de doença e enfermidade\".
+		\n\n<b>A higiene do trabalho</b> propõe-se combater, dum ponto de vista não médico, as 
+		doenças profissionais, identificando os factores que podem afectar o ambiente 
+		do trabalho e o trabalhador, visando eliminar ou reduzir os riscos profissionais 
+		(condições inseguras de trabalho que podem afectar a saúde, segurança e bem estar do trabalhador).
+		\n\nA <b>segurança do trabalho</b> propõe-se combater, também dum ponto de vista não médico, os 
+		acidentes de trabalho, quer eliminando as condições inseguras do ambiente, quer educando os 
+		trabalhadores a utilizarem medidas preventivas.
+	</string>
+
+    <string name="vantagens">
+        Por forma a responder às exigências do mercado e 
+        às necessidades dos clientes, foram estabelecidas parcerias com várias entidades, 
+        sempre com o objetivo de garantir um acompanhamento único, completo e direcionado 
+        para as necessidades específicas de cada cliente. 
+        \n\nDevido à conjuntura atual torna-se 
+        imprescindível ter acesso a uma larga escala de serviços que albergue os mais diversos 
+        casos de tratamento, quer em situações planeadas, quer em situações urgentes e pontuais, 
+        a preços mais apetecíveis e competitivos. 
+        \n\nPara usufruir dos mesmos basta apresentar o 
+        Cartão Achada Fisioclinic. Deste modo, conseguimos colocar ao dispor dos nossos clientes 
+        uma série mais alargada de serviços, desde as especialidades médicas, passando pela 
+        fisioterapia e cuidados de enfermagem até a medicina dentária. Consulte a tabela relativa 
+        aos descontos em todos os nossos parceiros
+	</string>
+    
+</resources>

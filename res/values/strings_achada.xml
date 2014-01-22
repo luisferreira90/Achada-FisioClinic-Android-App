@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        
+    <string name ="achada1">
+        &#8226;Consultas de especialidade: 
+        \n\n\t&#8226;Medicina geral e familiar
+        \n\t&#8226;Ortopedia
+        \n\t&#8226;Pediatria e Neuropediatria
+        \n\t&#8226;Medicina interna
+		\n\t&#8226;Gastrenterologia e Hepatologia
+    </string>
+    
+    <string name="achada2">
+        &#8226;Osteopatia
+	</string>
+	
+    <string name="achada2_1">
+        &#8226;Fisioterapia
+	</string>
+	
+    <string name="achada3">
+        &#8226;Medicina Tradicional Chinesa:
+	</string>
+	
+    <string name="achada3_1">
+        \t&#8226;Acupuntura
+	</string>
+	
+    <string name="achada3_2">
+        \t&#8226;Reflexologia
+	</string>
+	
+    <string name="achada4">
+        &#8226;Psicologia
+	</string>
+	
+    <string name="achada5">
+        &#8226;Massagem Relaxamento Geral
+	</string>
+	
+    <string name="achada6">
+        &#8226;Massagem Local
+	</string>
+	
+    <string name="achada7">
+        &#8226;Terapia da Fala
+	</string>
+	
+    <string name="achada8">
+        &#8226;Nutrição       
+    </string>
+    
+    <string name="achada9">
+		&#8226;Cuidados de Enfermagem: 
+        \n\n\t&#8226;Injetáveis
+        \n\t&#8226;Pensos*
+        \n\t&#8226;Algaliações
+    </string>
+
+    <string name="achadaexcep">
+        * Depende do tipo de penso a realizar
+    </string>
+ 	
+</resources>

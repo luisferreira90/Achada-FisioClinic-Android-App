@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_acupuntura">Acupuntura</string>
+    <string name="title_fitoterapia">Fitoterapia</string>
+    <string name="title_outras_disciplinas">Outras disciplinas</string>
+    <string name="title_moxibustao">Moxibustão</string>
+    <string name="title_qi_gong">Qi Gong</string>
+    <string name="title_reflexologia">Reflexologia</string>
+    <string name="title_oque">O que é?</string>
+    <string name="title_objectivos">Objectivos</string>
+    
+    <string name="medicina_tradicional">
+        Reconhecida pela Organização Mundial de Saúde, e sem efeitos secundários, a 
+        Medicina Chinesa está documentada desde há 5 mil anos, é hoje exercida em todo o mundo.
+		\n\nNa primeira consulta é feito um diagnóstico energético. O diálogo entre o 
+		profissional de saúde e o utente, com o sentir da pulsação e observação 
+		da língua, fazem parte dos crítérios de avaliação em Medicina Chinesa, 
+		permitindo elaborar a terapêutica adequada a cada situação, com o 
+		objectivo de restabelecer o equilibrio energético e a saúde.
+    </string>
+    
+    <string name="acupuntura">
+        Consiste na inserção de agulhas filiformes descartáveis em 
+        pontos muito específicos do corpo, que se localizam nos Meridianos de Acupunctura. 
+        É uma terapia indolor.
+    </string>
+    
+    <string name="fitoterapia">
+        É um método terapêutico que consiste na utilização de plantas medicinais, 
+        administradas em fórmulas que podem ser apresentadas sob a forma de chá, 
+        cápsulas, gotas ou cremes. Estas fórmulas são equilibradas energéticamente 
+        de forma a não produzirem efeitos secundários.
+        
+		\n\nA utilização de plantas medicinais chinesas é uma parte fundamental da 
+		M.T.C (Medicina Tradicional Chinesa) e envolve milhares de plantas, 
+		sendo que algumas delas têm uso secular e outras resultam de pesquisas mais recentes.
+		
+		\n\nHá milhares de anos que os Chineses utilizam a Fitoterapia e a Acupunctura. 
+		A utilização de plantas medicinais reforça a acção da acupunctura e muitas 
+		vezes trata as situações mais internas, em que a conjugação das duas terapias 
+		apresenta resultados muito mais satisfatórios.
+		
+		\n\nO uso da Fitoterapia com os fármacos é inteiramente aceitável. Não há interacção, 
+		uma vez que se trata de plantas medicinais, sem o uso de químicos.
+    </string>
+    
+    <string name="list_mtc">
+        <b>A MTC é particularmente eficaz no tratamento de:</b>
+        \n\n&#8226;Dores Ósteo-articulares, Reumatismos
+		\n&#8226;Cansaço, Fadiga
+		\n&#8226;Enxaquecas, Cefaleias 
+		\n&#8226;Disfunções menstruais, Infertilidade
+		\n&#8226;Síndroma do Túnel Cárpico
+		\n&#8226;Sintomas de Menopausa
+		\n&#8226;Situações alérgicas ( Rinite, Sinusite, Asma)
+		\n&#8226;Tabagismo
+		\n&#8226;Doenças Neurológicas
+		\n&#8226;Sequelas de AVC
+		\n&#8226;Ansiedade, Insónia
+		\n&#8226;Afecções da pele
+		\n&#8226;Excesso de peso
+		\n&#8226;Controlo da Diabetes
+		
+		\n\nEstes são alguns quadros clínicos mais comuns no Ocidente, no 
+		entanto a Medicina Chinesa pode ser utilizada em diversos 
+		problemas de saúde ou como complemento da Medicina Convencional.
+    </string>
+    
+    <string name="moxibustao">
+        É uma terapia que consiste em aquecer pontos de acupunctura com um bastão de moxa 
+        feito a partir da planta “artemisis”. Tem como objectivo promover um aumento de energia 
+        Yang no ponto e meridianos tratados.
+		\n\nO bastão de Moxa apenas fica próximo da pele ou da agulha de acupunctura, de modo a 
+		sentir uma sensação agradável de calor ao nível do ponto pretendido. É uma das técnicas 
+		mais seguras de aplicação da moxibustão.
+    </string>
+    
+    <string name="qi_gong">
+        Esta prática está enraizada no dia-a-dia da população e na prática das artes marciais chinesas. 
+        Conta actualmente com milhões de praticantes em todo o mundo.
+		\n\nO Qi (energia) Gong (exercício) combina a respiração abdominal, que é a nossa respiração 
+		natural, auto-massagem, posturas e alongamentos que estão relacionadas com os meridianos 
+		e pontos de acupunctura.
+		\n\nA respiração abdominal tem como objectivo aumentar a absorção do Qi Puro. Promovendo a 
+		vitalidade do corpo, harmoniza o Qi e o Sangue de forma a melhorar a saúde.
+		\n\nA respiração é também uma ligação entre o corpo e a mente. Ao controlar a qualidade e o 
+		movimento respiratório, podemos modificar algumas funções fisiológicas.
+		\n\nUma respiração abdominal profunda promove a automassagem dos órgãos. E equilibra o 
+		sistema parassimpático induzindo a um estado de relaxamento que, com o hábito, pode 
+		regular a tensão arterial e reduzir os estados de ansiedade.
+		\n\nCom a prática diária de Qi Gong conseguimos prevenir diferentes patologias e recuperar de muitas outras.
+    </string>
+    
+    <string name ="list_qi_gong">
+        O Qi Gong considerado a “arte da longevidade” tem como principais objectivos:
+		\nPreservar a energia ancestral
+		\nPromover a circulação de energia (Qi) e de sangue por todo o corpo
+		\nAbrandar o ritmo e a frequência respiratória
+		\nFortalecer o sistema Imunitário
+		\nAumentar os níveis de concentração
+		\nReforçar os tendões, músculos e articulações 
+		\nReduzir os níveis de ansiedade, depressão, irritabilidade
+		\nAumentar a flexibilidade
+		
+		\n\nEstudos científicos demonstraram que a prática desta arte milenar melhora consideravelmente o 
+        Sistema Nervoso, Respiratório, Circulatório, Digestivo, Endócrino e Imunitário.
+    </string>
+    
+    <string name="reflexologia">
+        Originalmente praticada pelos Egípcios e Chineses e reconhecida pela primeira vez no Ocidente 
+        em 1915, por estudos feitos pelo Dr. William Fitzgerald esta terapia desenvolveu-se em 1930 com a 
+        Fisioterapeuta Eunice Ingham que mapeou meticulosamente os pés com todos os órgãos, glândulas 
+        e zonas do corpo.
+    </string>
+    
+    <string name="oque">
+        É uma técnica especifica de massagem que se caracteriza por promover um relaxamento 
+        profundo, estimulando todo o organismo a encontar o seu equilíbrio.
+		\nA Reflexologia aliada aos conhecimentos da Medicina Chinesa, potencia os seus 
+		efeitos na medida em que são estimulados não só os pontos reflexos que existem nos 
+		pés mas também os meridianos de acupunctura que passam ao longo dos membros inferiores.
+		\nOs meridianos de acupunctura são canais de energia que atravessam todo o corpo e 
+		têm ligação aos órgãos e vísceras.
+    </string>
+    
+    <string name="objectivos">
+        Facilita a circulação sanguínea e linfática contribuindo para a eliminação de toxinas.
+		\nEstimula a produção de neurotransmissores como a serotonina, que tem um efeito 
+		analgésico e está relacionada com o aspecto emocional e a regulação do sono.
+		\nA libertação de endorfinas está associada ao aumento da resistência física e 
+		mental e ao fortalecimento do Sistema Imunitário, diminui a sensação de dor e retarda o envelhecimento.
+		 
+		\n\nOs seus benefícios fazem-se sentir a diferentes níveis:
+		
+		\n\n&#8226;Sistema Nervoso 
+		\n&#8226;Sistema Respiratório 
+		\n&#8226;Sistema Digestivo 
+		\n&#8226;Sistema Circulatório 
+		\n&#8226;Sistema Endócrino 
+		\n&#8226;Sistema Imunitário
+    </string>
+       
+</resources>

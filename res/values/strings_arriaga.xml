@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        
+    <string name ="arriaga1">
+        &#8226;Implantes, Próteses removíveis e fixas
+    </string>
+    
+    <string name="arriaga2">
+        &#8226;Restaurações
+        \n\n&#8226;Limpezas
+        \n\n&#8226;Tratamento Canal
+        \n\n&#8226;Aparelho Dentário
+        \n\n&#8226;Consultas
+        \n\nExtrações
+        \n\n&#8226;RX (inclui Raio-X 3D) - Apenas na Clinica Arriaga Funchal
+	</string>
+	
+    <string name="arriagaexcep">
+        *30\%% na Clinica Arriaga - Canhas
+    </string>
+    
+    <string name="title_arriaga1">
+        Clinica Arriaga
+    </string>
+    
+    <string name="title_arriaga2">
+       	Clinica Arriaga - Canhas
+    </string>
+	
+    <string name ="arriagamorada1">Av. Arriaga, Sala 2, 3
+        \n\9000-064 Funchal
+    </string>		
+    
+    <string name="arriagatelefone1">291 282 590</string>
+        
+    <string name ="arriagamorada2">Sitio do Outeiro da Cruz
+        \n\9360-031 Canhas
+    </string>		
+    
+    <string name="arriagatelefone2">291 976 800</string>
+          	
+</resources>

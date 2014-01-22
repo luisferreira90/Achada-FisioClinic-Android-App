@@ -1,0 +1,325 @@
+<ScrollView
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical"
+	android:scrollbarThumbVertical="@drawable/scrollbar"
+	android:background="#FFFFFF">
+        
+    <LinearLayout
+    	android:paddingLeft="35dp"
+	    android:paddingRight="35dp"
+	    android:paddingTop="10dp"
+        android:layout_width="fill_parent"
+       	android:layout_height="wrap_content"
+        android:orientation="vertical">
+	        
+	   		<TextView
+	   	    	android:id="@+id/txtTitle"
+		   	    android:fontFamily="sans-serif"
+		   	    android:layout_width="wrap_content"
+		   	    android:layout_height="wrap_content"
+		   	    android:textStyle="bold"
+		   	    android:textSize="35sp"/>
+		   	
+		   	<View
+			    android:layout_width="fill_parent"
+			    android:layout_height="2dp"
+			    android:background="@android:color/darker_gray"/>
+		        
+		   	<TextView
+		   	    android:fontFamily="sans-serif"
+		   	    android:layout_width="wrap_content"
+		   	    android:layout_height="wrap_content"
+		   	    android:paddingTop="20dp"
+		   	    android:text="@string/medicina_tradicional" 
+		   	    android:textSize="20sp" />
+		   	
+		   	<TextView
+		   	    android:fontFamily="sans-serif"
+		   	    android:layout_width="wrap_content"
+		   	    android:layout_height="wrap_content"
+		   	    android:paddingTop="40dp"
+		   	    android:textStyle="bold" 
+		   	    android:textSize="25sp"
+		   	    android:text="@string/title_acupuntura" />
+		        
+		   	<TextView
+		   	    android:fontFamily="sans-serif"
+		   	    android:layout_width="wrap_content"
+		   	    android:layout_height="wrap_content"
+		   	    android:paddingTop="20dp"
+		   	    android:text="@string/acupuntura" 
+		   	    android:textSize="20sp" />
+		   	
+		   	<RelativeLayout
+		   	    android:orientation="horizontal"
+		   	    android:layout_width="wrap_content"
+		   	    android:layout_height="wrap_content">
+		   	    
+			   	<ImageView 
+		   	    android:layout_width="250dp"
+		   	    android:layout_height="200dp"
+		   	    android:paddingTop="20dp"
+		   	    android:scaleType="fitXY"
+		   	    android:layout_alignParentLeft="true"
+		   	    android:src="@drawable/medicina_tradicional_1"/>
+			   	
+			   	<ImageView 
+		   	    android:layout_width="250dp"
+		   	    android:layout_height="200dp"
+		   	    android:paddingTop="20dp"
+		   	    android:scaleType="fitXY"
+		   	    android:layout_alignParentRight="true"
+		   	    android:src="@drawable/medicina_tradicional_2"/>
+		   	
+		   	</RelativeLayout>
+		   	
+		   	<TextView
+		   	    android:fontFamily="sans-serif"
+		   	    android:layout_width="wrap_content"
+		   	    android:layout_height="wrap_content"
+		   	    android:paddingTop="40dp"
+		   	    android:textStyle="bold"
+		   	    android:textSize="25sp"
+		   	    android:text="@string/title_fitoterapia" />
+		        
+		   	<TextView
+		   	    android:fontFamily="sans-serif"
+		   	    android:layout_width="wrap_content"
+		   	    android:layout_height="wrap_content"
+		   	    android:paddingTop="20dp"
+		   	    android:text="@string/fitoterapia" 
+		   	    android:textSize="20sp" />
+		   	
+		   	<RelativeLayout
+		   	    android:orientation="horizontal"
+		   	    android:layout_width="wrap_content"
+		   	    android:layout_height="wrap_content">
+		   	    
+			   	<ImageView 
+		   	    android:layout_width="250dp"
+		   	    android:layout_height="200dp"
+		   	    android:paddingTop="20dp"
+		   	    android:scaleType="fitXY"
+		   	    android:layout_alignParentLeft="true"
+		   	    android:src="@drawable/medicina_tradicional_3"/>
+			   	
+			   	<ImageView 
+		   	    android:layout_width="250dp"
+		   	    android:layout_height="200dp"
+		   	    android:paddingTop="20dp"
+		   	    android:scaleType="fitXY"
+		   	    android:layout_alignParentRight="true"
+		   	    android:src="@drawable/medicina_tradicional_4"/>
+		   	
+		   	</RelativeLayout>
+		   	
+		   	<TextView
+		   	    android:fontFamily="sans-serif"
+		   	    android:layout_width="wrap_content"
+		   	    android:layout_height="wrap_content"
+		   	    android:paddingTop="20dp"
+		   	    android:text="@string/list_mtc" 
+		   	    android:textSize="20sp" />
+		   	
+		   	<TextView
+		   	    android:fontFamily="sans-serif"
+		   	    android:layout_width="wrap_content"
+		   	    android:layout_height="wrap_content"
+		   	    android:paddingTop="40dp"
+		   	    android:textStyle="bold"
+		   	    android:textSize="25sp"
+		   	    android:text="@string/title_outras_disciplinas" />
+		   	
+		   	<TextView
+		   	    android:fontFamily="sans-serif"
+		   	    android:layout_width="wrap_content"
+		   	    android:layout_height="wrap_content"
+		   	    android:paddingTop="40dp"
+		   	    android:textStyle="bold"
+		   	    android:textSize="25sp"
+		   	    android:text="@string/title_moxibustao" />
+		   	
+		   	<TextView
+		   	    android:fontFamily="sans-serif"
+		   	    android:layout_width="wrap_content"
+		   	    android:layout_height="wrap_content"
+		   	    android:paddingTop="20dp"
+		   	    android:text="@string/moxibustao" 
+		   	    android:textSize="20sp" />
+		   	
+		   	<RelativeLayout
+		   	    android:orientation="horizontal"
+		   	    android:layout_width="wrap_content"
+		   	    android:layout_height="wrap_content">
+		   	    
+			   	<ImageView 
+		   	    android:layout_width="200dp"
+		   	    android:layout_height="250dp"
+		   	    android:paddingTop="20dp"
+		   	    android:scaleType="fitXY"
+		   	    android:layout_alignParentLeft="true"
+		   	    android:src="@drawable/medicina_tradicional_5"/>
+			   	
+			   	<ImageView 
+		   	    android:layout_width="200dp"
+		   	    android:layout_height="250dp"
+		   	    android:paddingTop="20dp"
+		   	    android:scaleType="fitXY"
+		   	    android:layout_alignParentRight="true"
+		   	    android:src="@drawable/medicina_tradicional_6"/>
+		   	
+		   	</RelativeLayout>
+		   	
+		   	<TextView
+		   	    android:fontFamily="sans-serif"
+		   	    android:layout_width="wrap_content"
+		   	    android:layout_height="wrap_content"
+		   	    android:paddingTop="40dp"
+		   	    android:textStyle="bold"
+		   	    android:textSize="25sp"
+		   	    android:text="@string/title_qi_gong" />
+		   	
+		   	<TextView
+		   	    android:fontFamily="sans-serif"
+		   	    android:layout_width="wrap_content"
+		   	    android:layout_height="wrap_content"
+		   	    android:paddingTop="20dp"
+		   	    android:text="@string/qi_gong" 
+		   	    android:textSize="20sp" />
+		   	
+		   	<RelativeLayout
+		   	    android:orientation="horizontal"
+		   	    android:layout_width="wrap_content"
+		   	    android:layout_height="wrap_content">
+		   	    
+			   	<ImageView 
+		   	    android:layout_width="200dp"
+		   	    android:layout_height="250dp"
+		   	    android:paddingTop="20dp"
+		   	    android:scaleType="fitXY"
+		   	    android:layout_alignParentLeft="true"
+		   	    android:src="@drawable/medicina_tradicional_7"/>
+			   	
+			   	<ImageView 
+		   	    android:layout_width="200dp"
+		   	    android:layout_height="250dp"
+		   	    android:paddingTop="20dp"
+		   	    android:scaleType="fitXY"
+		   	    android:layout_alignParentRight="true"
+		   	    android:src="@drawable/medicina_tradicional_8"/>
+		   	
+		   	</RelativeLayout>
+		   	
+		   	<TextView
+		   	    android:fontFamily="sans-serif"
+		   	    android:layout_width="wrap_content"
+		   	    android:layout_height="wrap_content"
+		   	    android:paddingTop="20dp"
+		   	    android:text="@string/list_qi_gong" 
+		   	    android:textSize="20sp" />
+		   	
+		   	<RelativeLayout
+		   	    android:orientation="horizontal"
+		   	    android:layout_width="wrap_content"
+		   	    android:layout_height="wrap_content">
+		   	    
+			   	<ImageView 
+		   	    android:layout_width="200dp"
+		   	    android:layout_height="250dp"
+		   	    android:paddingTop="20dp"
+		   	    android:scaleType="fitXY"
+		   	    android:layout_alignParentLeft="true"
+		   	    android:src="@drawable/medicina_tradicional_10"/>
+			   	
+			   	<ImageView 
+		   	    android:layout_width="200dp"
+		   	    android:layout_height="250dp"
+		   	    android:paddingTop="20dp"
+		   	    android:scaleType="fitXY"
+		   	    android:layout_alignParentRight="true"
+		   	    android:src="@drawable/medicina_tradicional_11"/>
+		   	
+		   	</RelativeLayout>
+		   	
+		   	<TextView
+		   	    android:fontFamily="sans-serif"
+		   	    android:layout_width="wrap_content"
+		   	    android:layout_height="wrap_content"
+		   	    android:paddingTop="40dp"
+		   	    android:textStyle="bold"
+		   	    android:textSize="25sp"
+		   	    android:text="@string/title_reflexologia" />
+		   	
+		   	<TextView
+		   	    android:fontFamily="sans-serif"
+		   	    android:layout_width="wrap_content"
+		   	    android:layout_height="wrap_content"
+		   	    android:paddingTop="20dp"
+		   	    android:text="@string/reflexologia" 
+		   	    android:textSize="20sp" />
+		   	
+		   	<ImageView 
+		   	    android:layout_width="313dp"
+		   	    android:layout_height="250dp"
+		   	    android:paddingTop="20dp"
+		   	    android:scaleType="fitXY"
+		   	    android:layout_gravity="center"
+		   	    android:src="@drawable/medicina_tradicional_12"/>
+		   	
+		   	<TextView
+		   	    android:fontFamily="sans-serif"
+		   	    android:layout_width="wrap_content"
+		   	    android:layout_height="wrap_content"
+		   	    android:paddingTop="40dp"
+		   	    android:textStyle="bold"
+		   	    android:textSize="25sp"
+		   	    android:text="@string/title_oque" />
+		   	
+		   	<TextView
+		   	    android:fontFamily="sans-serif"
+		   	    android:layout_width="wrap_content"
+		   	    android:layout_height="wrap_content"
+		   	    android:paddingTop="20dp"
+		   	    android:text="@string/oque" 
+		   	    android:textSize="20sp" />
+		   	
+		   	<ImageView 
+		   	    android:layout_width="250dp"
+		   	    android:layout_height="350dp"
+		   	    android:paddingTop="20dp"
+		   	    android:scaleType="fitXY"
+		   	    android:layout_gravity="center"
+		   	    android:src="@drawable/medicina_tradicional_13"/>
+		   	
+		   	<TextView
+		   	    android:fontFamily="sans-serif"
+		   	    android:layout_width="wrap_content"
+		   	    android:layout_height="wrap_content"
+		   	    android:paddingTop="40dp"
+		   	    android:textStyle="bold"
+		   	    android:textSize="25sp"
+		   	    android:text="@string/title_objectivos" />
+		   	
+		   	<TextView
+		   	    android:fontFamily="sans-serif"
+		   	    android:layout_width="wrap_content"
+		   	    android:layout_height="wrap_content"
+		   	    android:paddingTop="20dp"
+		   	    android:text="@string/objectivos" 
+		   	    android:textSize="20sp" />
+		   	
+		   	<ImageView 
+		   	    android:layout_width="313dp"
+		   	    android:layout_height="250dp"
+		   	    android:paddingTop="20dp"
+		   	    android:paddingBottom="15dp"
+		   	    android:scaleType="fitXY"
+		   	    android:layout_gravity="center"
+		   	    android:src="@drawable/medicina_tradicional_14"/>
+  
+	</LinearLayout>
+	   
+</ScrollView>

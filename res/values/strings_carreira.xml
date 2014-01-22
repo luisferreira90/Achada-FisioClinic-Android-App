@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_carreira_achada">Carreira 15 - Achada (Horários do Funchal)</string>
+    <string name="title_dias_uteis">Dias úteis</string>
+    <string name="title_sabados">Sábados</string>
+    <string name="title_subidas">Subidas</string>
+    <string name="title_descidas">Descidas</string>      
+        
+    <string name="subidas_uteis">
+        07:20
+        \n08:10
+		\n08:20
+		\n08:45
+		\n10:00
+		\n11:00
+		\n12:10
+		\n12:35
+		\n13:10
+		\n14:00
+		\n14:55
+		\n16:45
+		\n17:40
+		\n18:25
+		\n18:40
+		\n19:25
+		\n19:40
+		\n20:40
+    </string>
+    
+    <string name="descidas_uteis">
+        09:15
+		\n10:30
+		\n11:30
+		\n12:35
+		\n13:05
+		\n13:35
+		\n14:25
+		\n15:25
+		\n17:10
+		\n18:05
+		\n18:50
+		\n19:05
+		\n20:05
+		\n21:15
+    </string>
+    
+    <string name="subidas_sabados">
+        08:10
+		\n09:00
+		\n10:35
+		\n12:15
+		\n13:10
+    </string>
+    
+    <string name="descidas_sabados">
+        09:20
+		\n11:00
+		\n12:45
+		\n13:35
+		\n14:25
+    </string>
+       
+</resources>

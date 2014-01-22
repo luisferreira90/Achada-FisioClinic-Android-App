@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Achada FisioClinic</string>
+
+    <string-array
+        name="servicos_array">
+        <item>Consultas Médicas</item>
+		<item>Medicina do Trabalho</item>
+		<item>Fisioterapia</item>
+		<item>Psicologia</item>
+		<item>Terapia da Fala</item>
+		<item>Nutrição e Diética</item>
+		<item>Consultoria de Imagem</item>
+		<item>Cuidados de Enfermagem</item>
+		<item>Medicina Tradicional Chinesa</item>
+		<item>Osteopatia</item>
+		<item>Terapia Shiatsu</item>
+		<item>Massagem</item>
+		<item>Exames Complementares</item>
+    </string-array>
+    
+    <string-array
+        name="descontos_array">
+        <item>Achada Fisioclinic</item>
+        <item>Clinica Arriaga</item>
+        <item>Alberto Oculista</item>
+        <item>Madeira Medical Center</item>
+        <item>Home Instead</item>
+        <item>Slim and Svelte</item>
+        <item>Laboratório de Psicologia Coisas Lógicas</item>
+        <item>Podo Medical</item>
+        <item>Medinsular</item>
+    </string-array>
+    
+    <string-array
+        name="produtos_array">
+        <item>Fisiocrem</item>
+		<item>Xango</item>
+		<item>Spiral Tape</item>
+		<item>ATEX</item>
+		<item>4Life</item>
+    </string-array>
+    
+</resources>

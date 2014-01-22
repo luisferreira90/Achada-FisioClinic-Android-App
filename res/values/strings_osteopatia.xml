@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_como_actua">Como actua a Osteopatia</string>
+    <string name="title_campo_accao">Qual é o campo de acção da Osteopatia</string>
+    <string name="title_tratamento">Tratamento</string>
+    <string name="title_metodologia">Metodologia</string>
+    
+    <string name="osteopatia">
+        É uma ciência terapêutica baseada na biomecânica do corpo.
+		\nA sua origem data do final do século XIX quando o médico 
+		Andrew Taylor Still identificou a inter-relação entre o 
+		sistema músculo-esquelético e o resto do corpo.
+    </string>
+    
+    <string name="como_actua">
+        Pelo tratamento manual e natural, uma vez que o corpo possui uma 
+        capacidade de cura e reequilíbrio. A função do osteopata é tratar, 
+        através das mãos, as disfunções somáticas e estruturais do corpo.
+    </string>
+    
+    <string name="campo_accao">
+        O aparelho da locomoção, coluna vertebral, articulações, músculos, 
+        ligamentos e fasciais. O sistema visceral, certos desequilíbrios 
+        funcionais. A osteopatia craniana.
+    </string>
+    
+    <string name="tratamento">
+        A osteopatia é recomendada nos seguintes casos: dores nas costas, 
+        nas cervicalgias, torcicolos, neuralgia cervicobraquial, dorsalgias, 
+        lombalgias, ciática, lesões desportivas. Stress, irritabilidade, dores 
+        de cabeças. É um meio para reencontrar uma postura adequada e movimentos 
+        sem dor. 
+        \nAjustando o equilíbrio interno e eliminando tensões, visa 
+        uma harmonia holística do corpo, proporcionando bem estar. A osteopatia 
+        actua na prevenção de vários distúrbios, sendo ainda eficaz como 
+        complemento a prácticas psicológicas e médicas.
+    </string>
+    
+    <string name="metodologia">
+        Técnicas estruturais: manipulações articulares.
+		\nTécnicas rítmicas: estiramentos, bombeios.
+		\nTécnicas funcionais: relaxamento das fáscias.
+		\nO tratamento osteopático inclui um exame completo com a anamnese, 
+		observação de postura e avaliação dos tecidos e articula.
+    </string>
+       
+</resources>

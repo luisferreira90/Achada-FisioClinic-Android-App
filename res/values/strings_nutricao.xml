@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="nutricao"><b>A Dieta 10 é um programa de emagrecimento que permite alcançar, controlar e 
+        manter o peso corporal dentro dos limites saudáveis adequados às características 
+        individuais e estilo de vida dos Utentes.</b>
+		
+        \n\nFoi desenvolvido por especialistas na área da nutrição e dietética e consiste 
+		num sistema de emagrecimento natural com resultados efectivos ao nível da perda 
+		de peso, bem como da melhoria dos hábitos alimentares.
+		
+		\n\nA Dieta 10 promove a reeducação alimentar, uma vez que, ao longo do tratamento, 
+		permite ao Utente identificar erros alimentares, desenvolver melhores hábitos 
+		alimentares, tanto no que diz respeito à composição da alimentação como ao 
+		número de refeições diárias e, ainda, optar, de forma consciente, por melhores soluções alimentares.
+		
+		\n\nA metodologia da consulta Dieta 10 baseia-se num plano alimentar personalizado, 
+		acompanhado por suplementos alimentares que visam potenciar os resultados do plano 
+		através de métodos de confecção saudáveis, assim como das preferências alimentares de cada Utente.
+		
+		\n\nA Dieta 10 pode ser recomendada a qualquer pessoa, desde crianças a adultos, 
+		com ou sem patologias associadas.
+    </string>
+       
+</resources>

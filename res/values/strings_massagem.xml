@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="massagem">
+        Massagem é a prática de aplicar força ou vibração sobre tecidos macios do 
+        corpo, incluindo músculos, tecidos conectivos, tendões, ligamentos e 
+        articulações para estimular a circulação, a mobilidade, a elasticidade ou 
+        alívio de determinadas dores corporais.
+        
+        \n\nPor ser uma forma de terapia, também pode ser conhecida como 
+		massoterapia. Pode ser aplicada a partes do corpo ou continuamente a 
+		todo o corpo, para curar traumas físicos, aliviar stress psicológico, 
+		controlar a dor, melhorar a circulação e aliviar tensão. Quando a 
+		massagem é utilizada para benefícios físicos e mentais, ela pode 
+		ser chamada de "Terapia de Massagem Terapêutica".
+		
+		\n\nA massagem, enquanto palavra que agrega um conjunto muito 
+		diversificado de técnicas manipulativas (técnicas em que o 
+		terapeuta utiliza as mãos para induzir alterações benéficas 
+		nos músculos e estrutura óssea do paciente ou, através deles, 
+		noutra parte do corpo) ou não-manipulativas (com recurso 
+		exclusivo a aparelhos mecânicos/eléctricos), é uma das 
+		formas de terapia mais antigas do Mundo, tendo aplicação 
+		numa grande variedade de situações.
+    </string>
+       
+</resources>

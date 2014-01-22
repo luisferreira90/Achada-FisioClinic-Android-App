@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="title_consultas_assessoria">Consultas de assessoria e aconselhamento de imagem</string>
+
+    <string name="consultoria1"><i>"O espelho reflecte mas não nos vê, só outra pessoa pode ser um verdadeiro espelho para um ser humano"</i>
+
+		\n\n<b>Será que a sua imagem fala por si?</b>
+		
+		\n\n<b>Deixe a sua imagem falar por si, revelando o seu verdadeiro "Eu".</b>
+	</string>
+			
+    <string name="consultoria2"><b>Entrevista de Avaliação e Diagnóstico</b>
+		\nA primeira etapa visa obter dados sobre as preferências e objectivos 
+		pessoais de cada cliente face à imagem a projectar.
+		
+		\n\n<b>Análise de Estilo Pessoal</b>
+		\nTem por objectivo identificar, as características pessoais que 
+		permitam definir o estilo e reforçar a identidade visual.
+		
+		\n\n<b>Aconselhamento</b>
+		\nEsclarecimento sobre o tipo de roupa e estilo adequado, á sua personalidade, 
+		silhueta e tipofísico. O aconselhamento contribui para o aumento da sua 
+		segurança pessoal e auto estima.
+
+		\n\n\n<b>Marque a sua consulta de imagem!</b>
+		
+		\n\nConsultora de Imagem
+		\nPatrícia Rosário Pinto
+    </string>
+       
+</resources>

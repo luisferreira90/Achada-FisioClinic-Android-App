@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_quem_somos">Quem Somos</string>
+    <string name="title_missao">Missão</string>
+    
+    <string name="quem_somos">
+        A achada FisioClinic é um novo espaço clínico que iniciou actividade em Outubro de 2008.
+
+		\n\nEstamos com certeza um passo à frente no segmento da Saúde e bem-estar, 
+		que tem como objectivo fornecer serviços de superior qualidade e 
+		complementaridade, nomeadamente na área da Fisioterapia.
+		
+		\n\nConstituída actualmente por uma equipa de 20 profissionais de saúde 
+		especializados em diferentes áreas, a Achada FisioClinic está 
+		direccionada para utentes exigentes e conscientes da necessidade do seu bem-estar.
+		
+		\n\nA achada FisioClinic dispõe de modernos equipamentos, 
+		nas novas instalações com o objectivo de oferecer o máximo conforto e confiança.
+    </string>
+    
+    <string name="missao">
+        Neste inovador conceito clínico integrado de saúde e bem-estar 
+        actuamos de modo a que encontre de imediato orientação 
+        na resolução dos seus problemas de saúde.
+
+		\n\nPretendemos criar uma complementaridade racional e 
+		equilibrada entre as vertentes da Fisioterapia, 
+		Valências Médicas, Exames Complementares de Diagnóstico e diferentes terapias. 
+		\nSempre com o objectivo máximo de garantir um 
+		acompanhamento único, completo e direccionado para 
+		as necessidades especificas de cada utente.
+    </string>
+       
+</resources>

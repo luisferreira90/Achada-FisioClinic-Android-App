@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_prestacao_servicos">PRESTAÇÃO DE SERVIÇOS</string>
+    
+    <string name="cuidados_enfermagem">
+        Reconhecer e identificar os problemas e necessidades dos utentes, no 
+        sentido de adequar e conceber cuidados de enfermagem é deveras importante 
+        para uma conduta na qualidade dos cuidados em enfermagem.
+        
+		\n\nDe acordo com COLLIÈRE (1999), "cuidar é mobilizar em alguém tudo o que se vive". 
+		Segundo esta linha de pensamento e na nossa perspectiva, deparamos que esta 
+		visão do cuidar determina uma necessidade de formação tendo por base as 
+		ciências humanas e a visão holística do utente.
+		
+		\n\nTodos os cuidados são orientados e prestados, segundo uma visão holística e 
+		ao interagir com o utente, ser sempre nossa preocupação envolvê-lo no seu 
+		processo de prevenção, tratamento ou/e restabelecimento de saúde, bem como da sua família.
+    </string>
+    
+    <string name="list_enfermagem_servicos">
+        &#8226;Análises clínicas
+		\n&#8226;Avaliação da glicemia capilar
+		\n&#8226;Avaliação do colesterol
+		\n&#8226;Avaliação da tensão arterial
+		\n&#8226;Terapêutica injectável
+		\n&#8226;Teste de combur (análise da composição da urina)
+		\n&#8226;Electrocardiograma
+		\n&#8226;Análise de composição corporal (percentagem de massa gorda, magra, gordura visceral e peso)
+		\n&#8226;Cateterismo vesical (algália)
+		\n&#8226;Tratamento a feridas cirúrgicas, úlceras de pressão, escoriações…
+    </string>
+    
+    <string name="fazemos_domicilios">FAZEMOS DOMICÍLIOS 24H/DIA, 365 DIAS/ANO</string>
+       
+</resources>

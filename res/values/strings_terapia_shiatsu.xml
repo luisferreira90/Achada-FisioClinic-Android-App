@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_efeitos">Efeitos da Terapia Shiatsu no organismo:</string>
+    <string name="title_indicacoes">Terapia Shiatsu (indicações gerais)</string>
+    
+    <string name="terapia_shiatsu">
+        É definido pelo Ministério da Saúde do Japão e aceite como terapia 
+        efectiva pela OMS desde o pós-guerra como:
+		\n\"Tratamento que, aplicando pressão com os dedos polegares e as palmas das mãos sobre determinados pontos do corpo, corrige irregularidades, mantém e 
+		melhora a saúde, alivia diversas patologias e activa a capacidade de 
+		autocura do organismo. Influi no sistema imunitário e regula o sistema 
+		nervoso. Não tem efeitos secundários.\"
+			
+		\n\nShiatsu significa literalmente pressão com os dedos 
+		(shi:dedo, yatsu: pressão).
+		Utiliza ainda os estiramentos e algumas manipulações.
+		
+		\n\nO toque potencia o equilíbrio da energia vital, e aliado à pressão 
+		perpendicular sobre os pontos na pele, estimula a recuperação, mantém, 
+		ou melhora o estado de saúde geral, com função reguladora ou preventora 
+		de excessivos acúmulos ou défices de energia em determinados pontos e 
+		circuitos energéticos relacionados com órgãos, músculos e emoções.
+    </string>
+    
+    <string name="list_efeitos_terapia">
+        <b>Melhoria dos sistemas:</b>
+        \n&#8226;Circulatório
+		\n&#8226;Muscular
+		\n&#8226;Neuronal
+		\n&#8226;Ósseo
+		\n&#8226;Endócrino (glândulas)
+		\n&#8226;Flexibilização da pele
+		\n&#8226;Atitude mental mais serena e positiva
+	</string>
+	
+    <string name="indicacoes">&#8226;Transtornos psicossomáticos, perturbações do sono
+		\n&#8226;Neuralgias
+		\n&#8226;Tensão e stress, dores musculares e cervicais em particular
+		\n&#8226;Enxaqueca e cefaleias comuns
+		\n&#8226;Afecções dos órgãos abdominais
+		\n&#8226;Transtornos hepáticos e biliares
+		\n&#8226;Fadiga generalizada ou hiperactividade
+		\n&#8226;Obstipação e diarreia, gastrite
+		\n&#8226;Obesidade ou magreza extrema
+		\n\n<b>A nível de reabilitação:</b> 
+		\n&#8226;Trombose 
+		\n&#8226;Paralisia 
+		\n&#8226;Distensões 
+		\n&#8226;Traumatismos
+		\n&#8226;Pós-operatórios.
+    </string>
+       
+</resources>

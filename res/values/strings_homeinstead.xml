@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="homeinstead1">
+        &#8226;Acompanhamento
+        \n\n&#8226;Recuperação de problemas de saúde
+        \n\n&#8226;Preparação de refeições
+        \n\n&#8226;Apoio noturno
+        \n\n&#8226;Lembrança de medicação
+        \n\n&#8226;Apoio a doentes de Alzheimer/Parkinson e outras doenças neurológicas ou incapacitantes
+		\n\n&#8226;Higiene pessoal
+		\n\n&#8226;Acompanhamento em deslocações
+		\n\n&#8226;Pequenas tarefas domésticas
+		\n\n&#8226;Compras gerais
+	</string>
+	
+    <string name="homeinsteadexcep">
+        Nota: Este desconto além de ser aplicado ao titular do cartão, destina-se
+        também aos seus familiares
+    </string>   
+	
+    <string name ="homeinsteadmorada">Caminho da Achada nº 20 A
+        \n9000-208 Funchal
+    </string>		
+    
+    <string name="homeinsteadtelefone">291 745 320</string>           
+          	
+</resources>

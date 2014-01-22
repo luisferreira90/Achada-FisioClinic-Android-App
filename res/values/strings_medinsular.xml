@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        
+    <string name ="medinsular1">
+        &#8226;Cadeiras de Rodas Elétricas e Scooters
+    </string>
+    
+    <string name="medinsular2">
+        &#8226;Camas Articuladas Elétricas\n\n&#8226;Ajudas Técnicas
+        \n\n&#8226;Produtos de Higiene e Banho, geriatria, anti escaras e conforto
+        \n\n&#8226;Ortóteses
+        \n\n&#8226;Palmilhas por medida através de pedigrafia computorizada
+	</string>
+	
+    <string name="medinsular3">
+        &#8226;Meias de Compressão através de Sistema Image 3D
+    </string>    
+    
+    <string name="medinsularexcep">
+        Nota: Este desconto além de ser aplicado ao titular do cartão, destina-se
+        também aos seus familiares
+    </string>
+	
+    <string name ="medinsularmorada">Rua Conde Canavial, nº18 - A
+        \n9000-024 Funchal
+    </string>		
+    
+    <string name="medinsulartelefone">291 633 245</string>
+    
+    <string name="medinsularemail">encomendas.ergo@netcabo.pt</string>
+                 	
+</resources>

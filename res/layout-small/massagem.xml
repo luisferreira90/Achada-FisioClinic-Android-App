@@ -1,0 +1,51 @@
+<ScrollView
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical"
+	android:scrollbarThumbVertical="@drawable/scrollbar"
+	android:background="#FFFFFF">
+        
+    <LinearLayout
+    	android:paddingLeft="35dp"
+	    android:paddingRight="35dp"
+	    android:paddingTop="10dp"
+        android:layout_width="fill_parent"
+       	android:layout_height="wrap_content"
+        android:orientation="vertical">
+	        
+   		<TextView
+   	    	android:id="@+id/txtTitle"
+	   	    android:fontFamily="sans-serif"
+	   	    android:layout_width="wrap_content"
+	   	    android:layout_height="wrap_content"
+	   	    android:textStyle="bold"
+	   	    android:textSize="35sp"/>
+	   	
+	   	<View
+		    android:layout_width="fill_parent"
+		    android:layout_height="2dp"
+		    android:background="@android:color/darker_gray"/>
+
+	   	<TextView
+	   	    android:fontFamily="sans-serif"
+	   	    android:layout_width="wrap_content"
+	   	    android:layout_height="wrap_content"
+	   	    android:paddingTop="20dp"
+	   	    android:text="@string/massagem" 
+	   	    android:textSize="20sp" />
+
+	   	<ImageView 
+	   	    android:layout_width="wrap_content"
+	   	    android:layout_height="wrap_content"
+	   	    android:paddingTop="20dp"
+	   	    android:paddingBottom="20dp"
+	   	    android:scaleType="fitXY"
+	   	    android:layout_gravity="center"
+	   	    android:src="@drawable/massagem_1"/>
+
+
+	</LinearLayout>
+	   
+</ScrollView>

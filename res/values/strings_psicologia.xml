@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_psic_objectivo">Objectivo do serviço</string>
+    <string name="title_psic_dispomos">Dispomos de serviços específicos</string>
+    <string name="title_psic_funcionamento">Funcionamento</string>
+    
+	<string name="psicologia">A vida que nós levamos hoje, gera um número cada vez maior de pessoas 
+    	emocionalmente esgotadas, nervosas e sem tempo ou disposição para um 
+    	convívio saudável entre elas e a sociedade.
+		\nPor vezes precisa de falar com alguém, alguém que possa ajudar... Quando a forma 
+		como se sente lhe está a afectar a vida diária... o sono, os hábitos alimentares, 
+		o emprego, os relacionamentos, ou até na vida familiar... os seus filhos fazem 
+		birras intermináveis, isolam-se, têm dificuldades escolares ou estão numa fase de decisão nos estudos...
+		<b>Nós podemos ajudar</b>!
+	</string>
+
+	<string name="psic_objectivo">A função do psicólogo é compreender, escutar, perceber o significado da situação 
+	    do paciente e ajudá-lo de modo a promover o bem-estar.
+		\nO serviço na clínica baseia-se na <b>terapia cognitivo-comportamental</b>, que tem as 
+		seguintes proposições: a actividade cognitiva (os pensamentos) influência o 
+		comportamentos; a actividade cognitiva pode ser modificada e alterada; deste modo, o 
+		comportamento desejado pode ser influenciado mediante a mudança cognitiva.
+		\nA consulta psicológica tem um propósito claro e definido de que algo de positivo, 
+		construtivo e útil ocorra para si ou para a sua família.
+	</string>
+	
+	<string name="psic_dispomos">
+	    Consulta psicológica para crianças e jovens, onde se avaliam as possíveis dificuldades 
+	    das crianças/jovens nas áreas de dificuldades de aprendizagem, dificuldades emocionais 
+	    e/ou dificuldades comportamentais.
+		\nOrientação a pais para ajudar os pais nos dias de hoje a encontrar soluções para as 
+		dificuldades e desafios que os filhos nos colocam.
+		\nOrientação escolar para ajudar os jovens a compreender o leque de escolhas profissionais disponíveis.
+		\nConsultas de psicologia para adultos e idosos onde se intervêm em 
+		problemáticas emocionais e/ou comportamentais.
+	</string>
+		
+	<string name="psic_funcionamento">
+	    As consultas desenrolam-se segundo dois momentos a avaliação inicial tem o 
+	    objectivo de ponderar face às queixas, sintomas e expectativas do paciente e 
+	    considerar intervenção a seguir.
+    </string>
+       
+</resources>
