@@ -41,6 +41,19 @@ public class ContactosActivity extends Activity {
 	    }
 	}
 	
+	public void onClickTelefone2(View view) {
+		PackageManager pm = getBaseContext().getPackageManager();
+	    if(!pm.hasSystemFeature(PackageManager.FEATURE_TELEPHONY)) {
+	    	Toast.makeText(getBaseContext(), "Este dispositivo não pode fazer chamadas.", Toast.LENGTH_SHORT).show();    	
+	    }
+	    else {
+			Intent i = new
+					Intent(android.content.Intent.ACTION_DIAL,
+							Uri.parse("tel:931155000"));
+			startActivity(i);
+	    }
+	}
+	
 	public void onClickEmail(View view) {
 		Intent emailIntent = new Intent(Intent.ACTION_SENDTO, Uri.fromParts(
 	            "mailto","geral@achadafisioclinic.com", null));
