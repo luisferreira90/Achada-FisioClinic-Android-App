@@ -36,7 +36,7 @@ public class ContactosActivity extends Activity {
 	    else {
 			Intent i = new
 					Intent(android.content.Intent.ACTION_DIAL,
-							Uri.parse("tel:929093025"));
+							Uri.parse("tel:351291751393"));
 			startActivity(i);
 	    }
 	}
@@ -49,7 +49,7 @@ public class ContactosActivity extends Activity {
 	    else {
 			Intent i = new
 					Intent(android.content.Intent.ACTION_DIAL,
-							Uri.parse("tel:931155000"));
+							Uri.parse("tel:351929093025"));
 			startActivity(i);
 	    }
 	}
