@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.achadafisioclinic"
+<<<<<<< HEAD
     android:versionCode="8"
+=======
+    android:versionCode="7"
+>>>>>>> 20f379ef075e1402a662cd21ffc0da0dc5372da8
     android:versionName="1.0" >
     
     <supports-screens 
