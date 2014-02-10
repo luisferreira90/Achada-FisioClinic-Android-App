@@ -24,7 +24,7 @@ public class DescontoSelectedActivity extends Activity {
 				phone = "291282590";
 				geo = "32.64721,-16.91236?q=Ortoarriaga-sociedade Médica Unipessoal Lda";
 				phone2="291976800";
-				geo2="32.69480,-17.09824?q=32.69480,-17.09824";
+				geo2="32.41825,-17.7017?q=32.41825,-17.7017"; 
 				break;
 		case 2: setContentView(R.layout.alberto);
 				phone = "291000190";
